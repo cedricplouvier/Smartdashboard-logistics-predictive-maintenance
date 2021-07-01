@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Leuvensesteenweg, 3200, Aarschot, Belgium",
+    "lng": 4.79216,
+    "accuracy": 15,
+    "fixTime": 9,
+    "source": "gps",
+    "insertTime": "2021-06-25T00:44:10+0000",
+    "thirdPartyId": "Q-ADG-841",
+    "sigfoxDeviceId": "21A9E9",
+    "serial": "WYCEQ4",
+    "name": 4405,
+    "state": "START",
+    "id": 421658616,
+    "time": "2021-06-24T12:25:00+0000",
+    "lat": 50.96851,
+    "seqNbr": 30
+  },
+  "dataType": "activity"
+}

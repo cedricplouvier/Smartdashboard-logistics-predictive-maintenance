@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Pascalpad, Marslanden, Zwolle, Overijssel, Netherlands, 8013RH, The Netherlands",
+    "lng": 6.13381,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:36:05+0000",
+    "thirdPartyId": "Q-AJD-364",
+    "sigfoxDeviceId": "E1BA52",
+    "serial": "ENCG1H",
+    "name": 449,
+    "state": "STOP",
+    "id": 421780060,
+    "time": "2021-06-25T06:25:00+0000",
+    "lat": 52.49865,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

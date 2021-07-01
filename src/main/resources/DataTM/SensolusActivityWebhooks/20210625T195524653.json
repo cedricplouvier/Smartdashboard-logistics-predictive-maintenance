@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Atealaan, 34,34B, 2270, Herenthout, Belgium",
+    "lng": 4.78809,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T19:55:24+0000",
+    "thirdPartyId": "Q-ADH-605",
+    "sigfoxDeviceId": "142DCA0",
+    "serial": "DTKEFF",
+    "name": 254,
+    "state": "STOP",
+    "id": 422199425,
+    "time": "2021-06-25T04:38:00+0000",
+    "lat": 51.16432,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

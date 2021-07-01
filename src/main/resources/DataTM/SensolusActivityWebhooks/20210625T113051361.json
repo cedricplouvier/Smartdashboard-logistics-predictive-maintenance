@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Brikkenovenstraat, 3600, Genk, Belgium",
+    "lng": 5.47031,
+    "accuracy": 10,
+    "fixTime": 47,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:30:50+0000",
+    "thirdPartyId": "Q-ADP-874",
+    "sigfoxDeviceId": "2FBC98",
+    "serial": "Q47UCU",
+    "name": 1151,
+    "state": "STOP",
+    "id": 421953933,
+    "time": "2021-06-25T11:18:00+0000",
+    "lat": 50.98039,
+    "seqNbr": 29
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E313, 3560, Lummen, Belgium",
+    "lng": 5.23916,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:30:36+0000",
+    "thirdPartyId": "1-QEV-834",
+    "sigfoxDeviceId": "E2056C",
+    "serial": "177J6H",
+    "name": 103,
+    "state": "ON_THE_MOVE",
+    "id": 421919888,
+    "time": "2021-06-25T10:26:00+0000",
+    "lat": 50.97931,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

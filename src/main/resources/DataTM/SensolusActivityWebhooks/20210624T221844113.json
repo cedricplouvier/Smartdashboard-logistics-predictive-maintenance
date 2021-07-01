@@ -1,0 +1,15 @@
+{
+  "data": {
+    "insertTime": "2021-06-24T22:18:43+0000",
+    "thirdPartyId": "Q-AFT-571",
+    "sigfoxDeviceId": "3D1766",
+    "serial": "1ZHFFE",
+    "name": 472,
+    "state": "START",
+    "source": "gps",
+    "id": 421617050,
+    "time": "2021-06-24T22:16:00+0000",
+    "seqNbr": 19
+  },
+  "dataType": "activity"
+}

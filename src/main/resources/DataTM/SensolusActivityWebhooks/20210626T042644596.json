@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Blauwe Hoevestraat, 9, 2070, Zwijndrecht, Belgium",
+    "lng": 4.3182,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-26T04:26:32+0000",
+    "thirdPartyId": "Q-AYB-373",
+    "sigfoxDeviceId": "E1FF7F",
+    "serial": "CKAL3Q",
+    "name": 518,
+    "state": "START",
+    "id": 422331138,
+    "time": "2021-06-26T04:05:00+0000",
+    "lat": 51.22478,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

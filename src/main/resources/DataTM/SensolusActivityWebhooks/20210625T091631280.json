@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E313, 4040, Herstal, Belgium",
+    "lng": 5.57733,
+    "accuracy": 40,
+    "fixTime": 68,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:16:30+0000",
+    "thirdPartyId": "Q-AFF-773",
+    "sigfoxDeviceId": "E1AD7C",
+    "serial": "P6Q3YU",
+    "name": 488,
+    "state": "ON_THE_MOVE",
+    "id": 421875408,
+    "time": "2021-06-24T08:59:00+0000",
+    "lat": 50.69618,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

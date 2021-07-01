@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue Picard - Picardstraat, 1000, City of Brussels, Belgium",
+    "lng": 4.34895,
+    "accuracy": 15,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:31:50+0000",
+    "thirdPartyId": "Q-ABA-124",
+    "sigfoxDeviceId": "3D2283",
+    "serial": "LPXP99",
+    "name": 176,
+    "state": "START",
+    "id": 421746316,
+    "time": "2021-06-25T05:31:00+0000",
+    "lat": 50.86146,
+    "seqNbr": 14
+  },
+  "dataType": "activity"
+}

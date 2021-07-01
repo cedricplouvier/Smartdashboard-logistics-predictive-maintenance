@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Frans Bonduelstraat, 9200, Dendermonde, Belgium",
+    "lng": 4.15361,
+    "accuracy": 20,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:55:50+0000",
+    "thirdPartyId": "Q-ALY-433",
+    "sigfoxDeviceId": "142E47B",
+    "serial": "QHDZM9",
+    "name": 1199,
+    "state": "ON_THE_MOVE",
+    "id": 421757768,
+    "time": "2021-06-25T05:50:00+0000",
+    "lat": 51.04056,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

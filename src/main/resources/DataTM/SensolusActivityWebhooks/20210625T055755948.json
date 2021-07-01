@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Gembloux, Belgium",
+    "lng": 4.79026,
+    "accuracy": 15,
+    "fixTime": 65,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:57:54+0000",
+    "thirdPartyId": "Q-AAY-355",
+    "sigfoxDeviceId": "3D2DFF",
+    "serial": "EX77EK",
+    "name": 170,
+    "state": "STOP",
+    "id": 421758882,
+    "time": "2021-06-25T05:46:00+0000",
+    "lat": 50.5987,
+    "seqNbr": 45
+  },
+  "dataType": "activity"
+}

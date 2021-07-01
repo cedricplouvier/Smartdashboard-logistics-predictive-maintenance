@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vossenpad, 2350, Vosselaar, Belgium",
+    "lng": 4.86915,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:45:18+0000",
+    "thirdPartyId": "1-QAV-588",
+    "sigfoxDeviceId": "142E5BD",
+    "serial": "XQ31YG",
+    "name": 187,
+    "state": "START",
+    "id": 421785303,
+    "time": "2021-06-25T06:44:00+0000",
+    "lat": 51.3078,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Veltwijcklaan, 131, 2180, Antwerp, Belgium",
+    "lng": 4.43068,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T02:45:18+0000",
+    "thirdPartyId": "Q-AYC-514",
+    "sigfoxDeviceId": "E2109B",
+    "serial": "R7NQ2Y",
+    "name": 503,
+    "state": "START",
+    "id": 421689917,
+    "time": "2021-06-25T02:34:00+0000",
+    "lat": 51.28,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

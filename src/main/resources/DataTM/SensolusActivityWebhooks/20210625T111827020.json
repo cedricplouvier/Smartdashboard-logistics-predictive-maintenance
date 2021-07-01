@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue Arthur Descamps, 7340, Colfontaine, Belgium",
+    "lng": 3.85481,
+    "accuracy": 20,
+    "fixTime": 27,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:18:26+0000",
+    "thirdPartyId": "QJJ-768",
+    "sigfoxDeviceId": "3D1073",
+    "serial": "Q6NHFJ",
+    "name": 702,
+    "state": "START",
+    "id": 421946504,
+    "time": "2021-06-25T11:16:00+0000",
+    "lat": 50.39781,
+    "seqNbr": 36
+  },
+  "dataType": "activity"
+}

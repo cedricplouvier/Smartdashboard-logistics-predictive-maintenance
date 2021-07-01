@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Robert Tavernierlaan, 1, 8700, Tielt, Belgium",
+    "lng": 3.34164,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:12:12+0000",
+    "thirdPartyId": "Q-AEB-850",
+    "sigfoxDeviceId": "142E9B1",
+    "serial": "GFFACT",
+    "name": 487,
+    "state": "START",
+    "id": 421766839,
+    "time": "2021-06-25T06:08:00+0000",
+    "lat": 51.0032,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

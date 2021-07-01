@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "235, Gastelseweg, Roosendaal, North Brabant, Netherlands, 4704RV, The Netherlands",
+    "lng": 4.47251,
+    "accuracy": 15,
+    "fixTime": 37,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:00:24+0000",
+    "thirdPartyId": "QLB-419",
+    "sigfoxDeviceId": "3D1499",
+    "serial": "99PHVM",
+    "name": 196,
+    "state": "ON_THE_MOVE",
+    "id": 421865183,
+    "time": "2021-06-25T08:59:00+0000",
+    "lat": 51.55838,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

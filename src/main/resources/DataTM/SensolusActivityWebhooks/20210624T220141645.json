@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Leysstraat, 27, 2000, Antwerp, Belgium",
+    "lng": 4.41438,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T22:01:40+0000",
+    "thirdPartyId": "UTW-870",
+    "sigfoxDeviceId": 1.42E45,
+    "serial": "EPUJJ3",
+    "name": 301,
+    "state": "START",
+    "id": 421612908,
+    "time": "2021-06-24T09:48:00+0000",
+    "lat": 51.21834,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

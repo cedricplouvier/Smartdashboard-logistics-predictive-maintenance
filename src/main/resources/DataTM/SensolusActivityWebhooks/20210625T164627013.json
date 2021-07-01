@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Statiepad, 3110, Rotselaar, Belgium",
+    "lng": 4.73052,
+    "accuracy": 15,
+    "fixTime": 41,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:46:26+0000",
+    "thirdPartyId": "Q-AFR-396",
+    "sigfoxDeviceId": 225786,
+    "serial": "AUCFHX",
+    "name": 4400,
+    "state": "STOP",
+    "id": 422126682,
+    "time": "2021-06-25T16:35:00+0000",
+    "lat": 50.94185,
+    "seqNbr": 42
+  },
+  "dataType": "activity"
+}

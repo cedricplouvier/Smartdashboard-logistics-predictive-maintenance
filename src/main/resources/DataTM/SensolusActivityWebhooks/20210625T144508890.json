@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rijksweg, 42, 2880, Bornem, Belgium",
+    "lng": 4.25365,
+    "accuracy": 15,
+    "fixTime": 43,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:45:08+0000",
+    "thirdPartyId": "Q-AFS-615",
+    "sigfoxDeviceId": "3D168B",
+    "serial": "9HGG3V",
+    "name": 4403,
+    "state": "ON_THE_MOVE",
+    "id": 422068619,
+    "time": "2021-06-25T14:43:00+0000",
+    "lat": 51.09897,
+    "seqNbr": 7
+  },
+  "dataType": "activity"
+}

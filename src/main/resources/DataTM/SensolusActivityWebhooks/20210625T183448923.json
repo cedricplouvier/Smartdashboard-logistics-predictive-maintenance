@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Klaverbladstraat, 30, 3560, Lummen, Belgium",
+    "lng": 5.23134,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T18:34:48+0000",
+    "thirdPartyId": "1-QAQ-388",
+    "sigfoxDeviceId": "E20401",
+    "serial": "YKWWT9",
+    "name": 317,
+    "state": "START",
+    "id": 422171418,
+    "time": "2021-06-25T17:58:00+0000",
+    "lat": 50.99613,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

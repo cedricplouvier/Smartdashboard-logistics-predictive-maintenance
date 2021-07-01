@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E34;E313, 2160, Wommelgem, Belgium",
+    "lng": 4.4877,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T03:43:06+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "ON_THE_MOVE",
+    "id": 422321524,
+    "time": "2021-06-26T03:27:00+0000",
+    "lat": 51.21093,
+    "seqNbr": 14
+  },
+  "dataType": "activity"
+}

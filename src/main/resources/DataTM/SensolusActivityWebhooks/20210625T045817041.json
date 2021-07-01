@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "6480, Hazeldonk, Breda, North Brabant, Netherlands, 4836LH, The Netherlands",
+    "lng": 4.74564,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:58:16+0000",
+    "thirdPartyId": "Q-AJV-182",
+    "sigfoxDeviceId": "E21012",
+    "serial": "13C2AA",
+    "name": 1192,
+    "state": "START",
+    "id": 421730666,
+    "time": "2021-06-25T04:43:00+0000",
+    "lat": 51.49724,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

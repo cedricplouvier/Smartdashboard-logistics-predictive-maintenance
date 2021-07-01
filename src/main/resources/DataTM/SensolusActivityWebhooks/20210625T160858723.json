@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Europark, 3530, Houthalen-Helchteren, Belgium",
+    "lng": 5.39538,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:08:57+0000",
+    "thirdPartyId": "Q-ACX-332",
+    "sigfoxDeviceId": "142E6E8",
+    "serial": "PGJNP3",
+    "name": 910,
+    "state": "ON_THE_MOVE",
+    "id": 422110702,
+    "time": "2021-06-25T08:14:00+0000",
+    "lat": 51.04017,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hermeslaan, 40, 3600, Genk, Belgium",
+    "lng": 5.47264,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:06:42+0000",
+    "thirdPartyId": "QBG-055",
+    "sigfoxDeviceId": "E20701",
+    "serial": "VDQADT",
+    "name": 324,
+    "state": "STOP",
+    "id": 421711976,
+    "time": "2021-06-25T03:56:00+0000",
+    "lat": 50.9932,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

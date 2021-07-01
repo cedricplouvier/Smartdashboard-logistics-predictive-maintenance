@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "A2, Leende, Heeze-Leende, North Brabant, Netherlands, 5595BE, The Netherlands",
+    "lng": 5.53793,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-26T00:22:06+0000",
+    "thirdPartyId": "UTW-870",
+    "sigfoxDeviceId": 1.42E45,
+    "serial": "EPUJJ3",
+    "name": 301,
+    "state": "ON_THE_MOVE",
+    "id": 422273320,
+    "time": "2021-06-25T06:51:00+0000",
+    "lat": 51.35502,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

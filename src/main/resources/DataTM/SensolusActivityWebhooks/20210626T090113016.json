@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Bijlokstraat, 78, 3020, Herent, Belgium",
+    "lng": 4.68452,
+    "accuracy": 15,
+    "fixTime": 44,
+    "source": "gps",
+    "insertTime": "2021-06-26T09:01:12+0000",
+    "thirdPartyId": "UTK-217",
+    "sigfoxDeviceId": "3D1850",
+    "serial": "WRCU1R",
+    "name": 504,
+    "state": "STOP",
+    "id": 422423953,
+    "time": "2021-06-26T08:49:00+0000",
+    "lat": 50.91079,
+    "seqNbr": 54
+  },
+  "dataType": "activity"
+}

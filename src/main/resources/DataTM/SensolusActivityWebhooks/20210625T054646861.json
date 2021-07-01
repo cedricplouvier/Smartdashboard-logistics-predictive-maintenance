@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E17, 9070, Destelbergen, Belgium",
+    "lng": 3.82565,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:46:46+0000",
+    "thirdPartyId": "Q-AEB-850",
+    "sigfoxDeviceId": "142E9B1",
+    "serial": "GFFACT",
+    "name": 487,
+    "state": "ON_THE_MOVE",
+    "id": 421753129,
+    "time": "2021-06-25T05:09:00+0000",
+    "lat": 51.0511,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Broekooi, 1731, Asse, Belgium",
+    "lng": 4.25333,
+    "accuracy": 10,
+    "fixTime": 33,
+    "source": "gps",
+    "insertTime": "2021-06-25T02:53:14+0000",
+    "thirdPartyId": "Q-AGS-013",
+    "sigfoxDeviceId": "2FBC73",
+    "serial": "1LE7LG",
+    "name": 309,
+    "state": "ON_THE_MOVE",
+    "id": 421691891,
+    "time": "2021-06-25T02:52:00+0000",
+    "lat": 50.89636,
+    "seqNbr": 19
+  },
+  "dataType": "activity"
+}

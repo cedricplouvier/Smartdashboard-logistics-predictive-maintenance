@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Lüdenscheidsingel, 3000, Leuven, Belgium",
+    "lng": 4.70944,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:06:01+0000",
+    "thirdPartyId": "6LRFTK",
+    "sigfoxDeviceId": 1.42E+442,
+    "serial": "6LRFTK",
+    "name": 402,
+    "state": "STOP",
+    "id": 422010411,
+    "time": "2021-06-25T13:00:00+0000",
+    "lat": 50.88962,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Koning Boudewijnlaan, 3001, Leuven, Belgium",
+    "lng": 4.66513,
+    "accuracy": 20,
+    "fixTime": 79,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:16:26+0000",
+    "thirdPartyId": "Q-ADJ-723",
+    "sigfoxDeviceId": "21AE2E",
+    "serial": "JHMQFZ",
+    "name": 1146,
+    "state": "START",
+    "id": 421715144,
+    "time": "2021-06-25T03:39:00+0000",
+    "lat": 50.86546,
+    "seqNbr": 29
+  },
+  "dataType": "activity"
+}

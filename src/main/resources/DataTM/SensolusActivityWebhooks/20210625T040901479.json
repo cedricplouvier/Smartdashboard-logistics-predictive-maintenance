@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Geetsvondelstraat, 54, 3120, Tremelo, Belgium",
+    "lng": 4.75189,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:09:00+0000",
+    "thirdPartyId": "QJM-424",
+    "sigfoxDeviceId": "E1B286",
+    "serial": "V7PTAT",
+    "name": 431,
+    "state": "START",
+    "id": 421712641,
+    "time": "2021-06-25T04:08:00+0000",
+    "lat": 50.98314,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

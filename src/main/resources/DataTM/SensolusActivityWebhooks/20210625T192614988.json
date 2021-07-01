@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hogepedestraat, 24, 2370, Arendonk, Belgium",
+    "lng": 5.05918,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T19:26:13+0000",
+    "thirdPartyId": "Q-ADH-605",
+    "sigfoxDeviceId": "142DCA0",
+    "serial": "DTKEFF",
+    "name": 254,
+    "state": "STOP",
+    "id": 422189645,
+    "time": "2021-06-25T09:20:00+0000",
+    "lat": 51.31717,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

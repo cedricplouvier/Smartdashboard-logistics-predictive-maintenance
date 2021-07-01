@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Boulevard Henri Simonet - Henri Simonetlaan, 1070, Anderlecht, Belgium",
+    "lng": 4.26458,
+    "accuracy": 15,
+    "fixTime": 7,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:35:09+0000",
+    "thirdPartyId": "Q-ACB-525",
+    "sigfoxDeviceId": "3D2D8E",
+    "serial": "E3F6AP",
+    "name": 1132,
+    "state": "STOP",
+    "id": 421849472,
+    "time": "2021-06-25T08:24:00+0000",
+    "lat": 50.81889,
+    "seqNbr": 34
+  },
+  "dataType": "activity"
+}

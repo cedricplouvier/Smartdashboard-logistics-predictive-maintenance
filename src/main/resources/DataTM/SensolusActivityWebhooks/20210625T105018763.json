@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Industrieweg, 15, 2340, Beerse, Belgium",
+    "lng": 4.83235,
+    "accuracy": 10,
+    "fixTime": 35,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:50:17+0000",
+    "thirdPartyId": "Q-AFJ-297",
+    "sigfoxDeviceId": "21A594",
+    "serial": "ZYV13Y",
+    "name": 1172,
+    "state": "START",
+    "id": 421930737,
+    "time": "2021-06-25T10:49:00+0000",
+    "lat": 51.29785,
+    "seqNbr": 25
+  },
+  "dataType": "activity"
+}

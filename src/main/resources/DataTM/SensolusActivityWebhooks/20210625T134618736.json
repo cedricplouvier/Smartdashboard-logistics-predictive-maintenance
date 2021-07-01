@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rijksweg, 2870, Puurs-Sint-Amands, Belgium",
+    "lng": 4.31051,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:46:17+0000",
+    "thirdPartyId": "Q-ALG-007",
+    "sigfoxDeviceId": "142C3C8",
+    "serial": "EVVZ2C",
+    "name": 1177,
+    "state": "START",
+    "id": 422034128,
+    "time": "2021-06-25T13:43:00+0000",
+    "lat": 51.0646,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Total A73 Hoogvonderen, 50, Hoogvonderen, Stadsrandzone-Noord, Roermond, Limburg, Netherlands, 6042LZ, The Netherlands",
+    "lng": 6.02939,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:34:00+0000",
+    "thirdPartyId": "Q-AFL-035",
+    "sigfoxDeviceId": "E1FF81",
+    "serial": "UE7WVR",
+    "name": 436,
+    "state": "START",
+    "id": 421955701,
+    "time": "2021-06-25T11:13:00+0000",
+    "lat": 51.19031,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

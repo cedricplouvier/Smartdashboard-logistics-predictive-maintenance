@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue des Campaux, 7910, Frasnes-lez-Anvaing, Belgium",
+    "lng": 3.59473,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:21:06+0000",
+    "thirdPartyId": "Q-ADG-344",
+    "sigfoxDeviceId": "E20C22",
+    "serial": "AA2CN9",
+    "name": 252,
+    "state": "STOP",
+    "id": 422019186,
+    "time": "2021-06-25T13:10:00+0000",
+    "lat": 50.70559,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

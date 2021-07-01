@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "4600, Visé, Belgium",
+    "lng": 5.70474,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-24T16:09:34+0000",
+    "thirdPartyId": "QJM-423",
+    "sigfoxDeviceId": "E1A3F4",
+    "serial": "CHCH2G",
+    "name": 432,
+    "state": "STOP",
+    "id": 421486912,
+    "time": "2021-06-24T15:58:00+0000",
+    "lat": 50.74899,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

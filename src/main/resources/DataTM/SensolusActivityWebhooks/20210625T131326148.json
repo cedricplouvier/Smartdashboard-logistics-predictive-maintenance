@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kapellestraat, 9800, Deinze, Belgium",
+    "lng": 3.54947,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:13:24+0000",
+    "thirdPartyId": "Q-AEE-099",
+    "sigfoxDeviceId": "E18625",
+    "serial": "9MZ29D",
+    "name": 489,
+    "state": "START",
+    "id": 422014692,
+    "time": "2021-06-25T13:12:00+0000",
+    "lat": 50.98396,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

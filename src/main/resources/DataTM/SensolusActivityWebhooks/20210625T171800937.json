@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Pater Damiaanstraat, 10, 2460, Kasterlee, Belgium",
+    "lng": 4.96408,
+    "accuracy": 15,
+    "fixTime": 39,
+    "source": "gps",
+    "insertTime": "2021-06-25T17:09:22+0000",
+    "thirdPartyId": "Q-AKU-725",
+    "sigfoxDeviceId": "21A9BA",
+    "serial": "PQ3TMD",
+    "name": 118,
+    "state": "STOP",
+    "id": 422137490,
+    "time": "2021-06-25T16:58:00+0000",
+    "lat": 51.23472,
+    "seqNbr": 34
+  },
+  "dataType": "activity"
+}

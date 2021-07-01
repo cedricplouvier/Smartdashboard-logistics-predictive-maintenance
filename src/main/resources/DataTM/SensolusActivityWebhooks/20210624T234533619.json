@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Merchtemsesteenweg, 18, 1861, Meise, Belgium",
+    "lng": 4.30648,
+    "accuracy": 20,
+    "fixTime": 14,
+    "source": "gps",
+    "insertTime": "2021-06-24T23:45:32+0000",
+    "thirdPartyId": "1-QDD-791",
+    "sigfoxDeviceId": "3D1508",
+    "serial": "MWCYW7",
+    "name": 451,
+    "state": "STOP",
+    "id": 421643958,
+    "time": "2021-06-24T11:20:00+0000",
+    "lat": 50.95095,
+    "seqNbr": 57
+  },
+  "dataType": "activity"
+}

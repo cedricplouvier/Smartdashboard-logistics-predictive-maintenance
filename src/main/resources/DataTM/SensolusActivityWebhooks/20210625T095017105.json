@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E17, 9150, Kruibeke, Belgium",
+    "lng": 4.28992,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:50:16+0000",
+    "thirdPartyId": "Q-AKF-441",
+    "sigfoxDeviceId": "E208F6",
+    "serial": "3HN7DW",
+    "name": 516,
+    "state": "START",
+    "id": 421896385,
+    "time": "2021-06-25T09:25:00+0000",
+    "lat": 51.18379,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

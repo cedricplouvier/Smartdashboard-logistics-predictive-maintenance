@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Sint-Jansweg, 9130, Beveren, Belgium",
+    "lng": 4.26594,
+    "accuracy": 20,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:20:36+0000",
+    "thirdPartyId": "QHW_002",
+    "sigfoxDeviceId": "21ACFB",
+    "serial": "QRHEDP",
+    "name": 165,
+    "state": "STOP",
+    "id": 422087224,
+    "time": "2021-06-25T15:09:00+0000",
+    "lat": 51.26885,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

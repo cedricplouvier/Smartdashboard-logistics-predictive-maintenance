@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Promenade de la Douceur Mosane, 5000, Namur, Belgium",
+    "lng": 4.90301,
+    "accuracy": 20,
+    "fixTime": 27,
+    "source": "gps",
+    "insertTime": "2021-06-26T09:50:08+0000",
+    "thirdPartyId": "Q-AFD-341",
+    "sigfoxDeviceId": "3D0F31",
+    "serial": "9CWT99",
+    "name": 148,
+    "state": "START",
+    "id": 422444703,
+    "time": "2021-06-26T09:49:00+0000",
+    "lat": 50.4664,
+    "seqNbr": 20
+  },
+  "dataType": "activity"
+}

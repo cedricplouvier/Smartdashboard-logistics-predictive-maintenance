@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue du Bosquet, 1402, Nivelles, Belgium",
+    "lng": 4.35478,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:56:46+0000",
+    "thirdPartyId": "Q-ABR-989",
+    "sigfoxDeviceId": "E1B0F5",
+    "serial": "EPVDWE",
+    "name": 177,
+    "state": "START",
+    "id": 421900480,
+    "time": "2021-06-25T09:55:00+0000",
+    "lat": 50.58144,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

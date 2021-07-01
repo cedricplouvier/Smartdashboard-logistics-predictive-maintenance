@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Frank Van Dyckelaan, 19A, 9140, Temse, Belgium",
+    "lng": 4.19962,
+    "accuracy": 10,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:24:52+0000",
+    "thirdPartyId": "Q-ADP-547",
+    "sigfoxDeviceId": "E1FEA7",
+    "serial": "V1KPH2",
+    "name": 1148,
+    "state": "START",
+    "id": 421916719,
+    "time": "2021-06-25T09:57:00+0000",
+    "lat": 51.11721,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

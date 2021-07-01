@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Bergense Steenweg, 61, 2270, Herenthout, Belgium",
+    "lng": 4.7681,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:47:55+0000",
+    "thirdPartyId": "Q-AJV-182",
+    "sigfoxDeviceId": "E21012",
+    "serial": "13C2AA",
+    "name": 1192,
+    "state": "STOP",
+    "id": 422127238,
+    "time": "2021-06-25T16:37:00+0000",
+    "lat": 51.14792,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

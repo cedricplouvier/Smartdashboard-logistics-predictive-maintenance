@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Haart, 18, 2260, Westerlo, Belgium",
+    "lng": 4.84762,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T03:11:16+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "START",
+    "id": 422314487,
+    "time": "2021-06-26T02:47:00+0000",
+    "lat": 51.11515,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "1600, Sint-Pieters-Leeuw, Belgium",
+    "lng": 4.29459,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:06:30+0000",
+    "thirdPartyId": "1-QDD-790",
+    "sigfoxDeviceId": 1.42E+439,
+    "serial": "9ZADUY",
+    "name": 139,
+    "state": "START",
+    "id": 422080359,
+    "time": "2021-06-25T15:05:00+0000",
+    "lat": 50.80554,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

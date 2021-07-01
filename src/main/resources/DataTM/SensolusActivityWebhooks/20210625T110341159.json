@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kapelleberg, 1, 2430, Laakdal, Belgium",
+    "lng": 5.00568,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:03:38+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "START",
+    "id": 421938390,
+    "time": "2021-06-25T02:38:00+0000",
+    "lat": 51.10435,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

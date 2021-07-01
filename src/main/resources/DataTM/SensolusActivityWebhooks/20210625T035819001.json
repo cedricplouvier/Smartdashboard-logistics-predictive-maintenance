@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Geslecht, 9130, Beveren, Belgium",
+    "lng": 4.2757,
+    "accuracy": 5,
+    "fixTime": 40,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:58:18+0000",
+    "thirdPartyId": "1-QEL-154",
+    "sigfoxDeviceId": "2FBC99",
+    "serial": "3Q19Y6",
+    "name": "004",
+    "state": "STOP",
+    "id": 421709324,
+    "time": "2021-06-25T03:47:00+0000",
+    "lat": 51.28738,
+    "seqNbr": 37
+  },
+  "dataType": "activity"
+}

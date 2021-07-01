@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue Roger Wercollier, Itzegerstee, Hesperange, Canton Luxembourg, 5830, Luxembourg",
+    "lng": 6.16217,
+    "accuracy": 20,
+    "fixTime": 11,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:45:12+0000",
+    "thirdPartyId": "1-QAK-616",
+    "sigfoxDeviceId": "3D1438",
+    "serial": "XMYHDE",
+    "name": 950,
+    "state": "STOP",
+    "id": 422126161,
+    "time": "2021-06-25T12:28:00+0000",
+    "lat": 49.57157,
+    "seqNbr": 44
+  },
+  "dataType": "activity"
+}

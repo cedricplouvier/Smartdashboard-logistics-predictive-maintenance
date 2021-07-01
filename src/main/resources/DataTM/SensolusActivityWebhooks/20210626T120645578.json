@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Koningsbaan, 74, 2223, Putte, Belgium",
+    "lng": 4.67774,
+    "accuracy": 20,
+    "fixTime": 25,
+    "source": "gps",
+    "insertTime": "2021-06-26T12:06:44+0000",
+    "thirdPartyId": "Q-AHB-390",
+    "sigfoxDeviceId": "21A97B",
+    "serial": "GTQPJP",
+    "name": 467,
+    "state": "START",
+    "id": 422496265,
+    "time": "2021-06-26T12:05:00+0000",
+    "lat": 51.05333,
+    "seqNbr": 49
+  },
+  "dataType": "activity"
+}

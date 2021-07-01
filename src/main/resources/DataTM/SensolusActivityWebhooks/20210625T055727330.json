@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Wilhelmietenlaan, 9120, Beveren, Belgium",
+    "lng": 4.24824,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:57:19+0000",
+    "thirdPartyId": "QJJ-161",
+    "sigfoxDeviceId": "142EA0C",
+    "serial": "T9LR7D",
+    "name": 605,
+    "state": "START",
+    "id": 421758485,
+    "time": "2021-06-25T05:55:00+0000",
+    "lat": 51.21304,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

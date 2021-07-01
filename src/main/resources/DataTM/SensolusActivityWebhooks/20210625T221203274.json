@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Thomas Watsonlaan, 102, 3930, Hamont-Achel, Belgium",
+    "lng": 5.48084,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T22:12:02+0000",
+    "thirdPartyId": "UTW-870",
+    "sigfoxDeviceId": 1.42E45,
+    "serial": "EPUJJ3",
+    "name": 301,
+    "state": "START",
+    "id": 422236061,
+    "time": "2021-06-25T07:27:00+0000",
+    "lat": 51.24298,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

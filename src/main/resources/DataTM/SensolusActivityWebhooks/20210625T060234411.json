@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Doelhaagstraat, 2840, Rumst, Belgium",
+    "lng": 4.42937,
+    "accuracy": 10,
+    "fixTime": 200,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:02:28+0000",
+    "thirdPartyId": "Q-ACU-764",
+    "sigfoxDeviceId": "21A960",
+    "serial": "M3PZME",
+    "name": 1140,
+    "state": "START",
+    "id": 421761515,
+    "time": "2021-06-25T05:58:00+0000",
+    "lat": 51.08317,
+    "seqNbr": 22
+  },
+  "dataType": "activity"
+}

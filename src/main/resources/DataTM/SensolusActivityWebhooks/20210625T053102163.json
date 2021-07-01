@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "R6, 2861, Sint-Katelijne-Waver, Belgium",
+    "lng": 4.55272,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:31:00+0000",
+    "thirdPartyId": "1-QCQ-952",
+    "sigfoxDeviceId": "142EC91",
+    "serial": "XK29FN",
+    "name": 411,
+    "state": "ON_THE_MOVE",
+    "id": 421745908,
+    "time": "2021-06-24T09:13:00+0000",
+    "lat": 51.04308,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

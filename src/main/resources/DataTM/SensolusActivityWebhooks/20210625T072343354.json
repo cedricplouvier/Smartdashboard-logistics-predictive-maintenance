@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Brugsebaan, 8810, Lichtervelde, Belgium",
+    "lng": 3.11179,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:17:56+0000",
+    "thirdPartyId": "QBE-307",
+    "sigfoxDeviceId": "142EA62",
+    "serial": "3J9MT7",
+    "name": 305,
+    "state": "START",
+    "id": 421804943,
+    "time": "2021-06-25T07:10:00+0000",
+    "lat": 51.02385,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

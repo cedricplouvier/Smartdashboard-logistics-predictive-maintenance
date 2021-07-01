@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "2400, Mol, Belgium",
+    "lng": 5.08132,
+    "accuracy": 15,
+    "fixTime": 11,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:24:18+0000",
+    "thirdPartyId": "1-QEV-842",
+    "sigfoxDeviceId": "21ACF1",
+    "serial": "R9GGXQ",
+    "name": 1128,
+    "state": "STOP",
+    "id": 421773360,
+    "time": "2021-06-25T06:13:00+0000",
+    "lat": 51.22565,
+    "seqNbr": 27
+  },
+  "dataType": "activity"
+}

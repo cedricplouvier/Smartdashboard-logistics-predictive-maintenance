@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Gitschotellei, 179, 2140, Antwerp, Belgium",
+    "lng": 4.44486,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-26T07:30:36+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "START",
+    "id": 422388528,
+    "time": "2021-06-26T07:25:00+0000",
+    "lat": 51.20039,
+    "seqNbr": 7
+  },
+  "dataType": "activity"
+}

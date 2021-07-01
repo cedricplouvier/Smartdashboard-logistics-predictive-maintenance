@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Baalsebaan, 322, 3128, Tremelo, Belgium",
+    "lng": 4.7499,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:29:22+0000",
+    "thirdPartyId": "Q-AMN-969",
+    "sigfoxDeviceId": "142D83C",
+    "serial": "WMR2JP",
+    "name": 4419,
+    "state": "STOP",
+    "id": 422091579,
+    "time": "2021-06-25T15:23:00+0000",
+    "lat": 50.99525,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

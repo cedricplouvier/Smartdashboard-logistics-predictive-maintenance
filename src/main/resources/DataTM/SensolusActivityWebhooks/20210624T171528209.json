@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "48455, Bad Bentheim, Germany",
+    "lng": 7.04203,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T17:03:48+0000",
+    "thirdPartyId": "QDF-769",
+    "sigfoxDeviceId": "E205A1",
+    "serial": "EVUVN9",
+    "name": 414,
+    "state": "STOP",
+    "id": 421512045,
+    "time": "2021-06-24T16:53:00+0000",
+    "lat": 52.31275,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

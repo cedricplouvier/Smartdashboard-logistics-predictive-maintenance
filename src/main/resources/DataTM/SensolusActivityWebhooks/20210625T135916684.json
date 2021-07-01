@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Olieweg, 2020, Antwerp, Belgium",
+    "lng": 4.35993,
+    "accuracy": 20,
+    "fixTime": 46,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:59:15+0000",
+    "thirdPartyId": "Q-AFK-068",
+    "sigfoxDeviceId": "3D1512",
+    "serial": "3D6XM7",
+    "name": 494,
+    "state": "START",
+    "id": 422041932,
+    "time": "2021-06-25T13:55:00+0000",
+    "lat": 51.19713,
+    "seqNbr": 31
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Bouwelven, 5, 2280, Grobbendonk, Belgium",
+    "lng": 4.77511,
+    "accuracy": 20,
+    "fixTime": 59,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:47:42+0000",
+    "thirdPartyId": "QIC-270",
+    "sigfoxDeviceId": "193CC0",
+    "serial": "VKKLVR",
+    "name": 430,
+    "state": "START",
+    "id": 422034914,
+    "time": "2021-06-25T13:46:00+0000",
+    "lat": 51.16639,
+    "seqNbr": 38
+  },
+  "dataType": "activity"
+}

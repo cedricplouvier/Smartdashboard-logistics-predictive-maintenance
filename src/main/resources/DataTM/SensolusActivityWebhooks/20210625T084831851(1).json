@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Mammoetstraat, 3700, Tongeren, Belgium",
+    "lng": 5.5357,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:48:30+0000",
+    "thirdPartyId": "Q-AHB-394",
+    "sigfoxDeviceId": "21A5D1",
+    "serial": "V9ARH6",
+    "name": 441,
+    "state": "START",
+    "id": 421857705,
+    "time": "2021-06-25T08:30:00+0000",
+    "lat": 50.78497,
+    "seqNbr": 21
+  },
+  "dataType": "activity"
+}

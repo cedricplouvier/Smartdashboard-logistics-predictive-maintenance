@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Nijverheidstraat, 1830, Machelen, Belgium",
+    "lng": 4.42711,
+    "accuracy": 10,
+    "fixTime": 39,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:07:26+0000",
+    "thirdPartyId": "UPK-208",
+    "sigfoxDeviceId": "3D18D7",
+    "serial": "WLDTYZ",
+    "name": 124,
+    "state": "STOP",
+    "id": 422047052,
+    "time": "2021-06-25T13:56:00+0000",
+    "lat": 50.9167,
+    "seqNbr": 24
+  },
+  "dataType": "activity"
+}

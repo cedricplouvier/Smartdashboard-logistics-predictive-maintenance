@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Leopold Decouxlaan, 226, 3012, Leuven, Belgium",
+    "lng": 4.69961,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:38:08+0000",
+    "thirdPartyId": "Q-AHK-092",
+    "sigfoxDeviceId": "E19C4D",
+    "serial": "1Y7EYQ",
+    "name": 1180,
+    "state": "ON_THE_MOVE",
+    "id": 421993607,
+    "time": "2021-06-25T12:31:00+0000",
+    "lat": 50.90009,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

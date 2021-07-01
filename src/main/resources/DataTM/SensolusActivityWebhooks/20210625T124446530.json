@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kruibeeksesteenweg, 24, 2070, Zwijndrecht, Belgium",
+    "lng": 4.33088,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:44:44+0000",
+    "thirdPartyId": "Q-AJV-182",
+    "sigfoxDeviceId": "E21012",
+    "serial": "13C2AA",
+    "name": 1192,
+    "state": "STOP",
+    "id": 421997614,
+    "time": "2021-06-25T12:33:00+0000",
+    "lat": 51.19688,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

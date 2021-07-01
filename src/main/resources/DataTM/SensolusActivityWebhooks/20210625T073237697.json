@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hoeikensstraat, 2830, Willebroek, Belgium",
+    "lng": 4.34975,
+    "accuracy": 20,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:32:36+0000",
+    "thirdPartyId": "1-QDD-085",
+    "sigfoxDeviceId": "E18097",
+    "serial": "LNGYEX",
+    "name": 120,
+    "state": "ON_THE_MOVE",
+    "id": 421812936,
+    "time": "2021-06-25T07:23:00+0000",
+    "lat": 51.07482,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E19, 7180, Seneffe, Belgium",
+    "lng": 4.26221,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T17:35:32+0000",
+    "thirdPartyId": "Q-ALY-444",
+    "sigfoxDeviceId": 1.42E+440,
+    "serial": "Y7Z1RW",
+    "name": 1204,
+    "state": "ON_THE_MOVE",
+    "id": 421525472,
+    "time": "2021-06-24T16:43:00+0000",
+    "lat": 50.5489,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

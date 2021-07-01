@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "N.B. de Borchgravestraat, 4440, 3800, Sint-Truiden, Belgium",
+    "lng": 5.21528,
+    "accuracy": 15,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:40:36+0000",
+    "thirdPartyId": "1-QEZ-638",
+    "sigfoxDeviceId": "21A967",
+    "serial": "MPV293",
+    "name": 493,
+    "state": "STOP",
+    "id": 422124341,
+    "time": "2021-06-25T16:29:00+0000",
+    "lat": 50.82288,
+    "seqNbr": 22
+  },
+  "dataType": "activity"
+}

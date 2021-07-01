@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Langdorpsesteenweg, 3201, Aarschot, Belgium",
+    "lng": 4.85438,
+    "accuracy": 10,
+    "fixTime": 34,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:07:44+0000",
+    "thirdPartyId": "Q-ACU-765",
+    "sigfoxDeviceId": "2FC264",
+    "serial": "NNQMKT",
+    "name": 1142,
+    "state": "START",
+    "id": 421940600,
+    "time": "2021-06-25T08:18:00+0000",
+    "lat": 50.99316,
+    "seqNbr": 56
+  },
+  "dataType": "activity"
+}

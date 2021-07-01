@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Ambachtenstraat, 3210, Lubbeek, Belgium",
+    "lng": 4.79942,
+    "accuracy": 20,
+    "fixTime": 67,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:43:30+0000",
+    "thirdPartyId": "QLB-419",
+    "sigfoxDeviceId": "3D1499",
+    "serial": "99PHVM",
+    "name": 196,
+    "state": "START",
+    "id": 421705172,
+    "time": "2021-06-25T03:41:00+0000",
+    "lat": 50.89448,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

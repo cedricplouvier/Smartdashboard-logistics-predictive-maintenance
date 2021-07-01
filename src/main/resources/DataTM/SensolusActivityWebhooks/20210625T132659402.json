@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Dageraadlaan - Avenue de l'Aurore, 1640, Sint-Genesius-Rode, Belgium",
+    "lng": 4.3951,
+    "accuracy": 15,
+    "fixTime": 40,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:26:58+0000",
+    "thirdPartyId": "1-QBX-983",
+    "sigfoxDeviceId": "3D16D3",
+    "serial": "ZH72N9",
+    "name": 1107,
+    "state": "STOP",
+    "id": 422022711,
+    "time": "2021-06-25T13:15:00+0000",
+    "lat": 50.73937,
+    "seqNbr": 47
+  },
+  "dataType": "activity"
+}

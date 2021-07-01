@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Redersstraat, 3012, Leuven, Belgium",
+    "lng": 4.70965,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:47:20+0000",
+    "thirdPartyId": "Q-ADE-669",
+    "sigfoxDeviceId": "E1BC33",
+    "serial": "XZMTNV",
+    "name": 465,
+    "state": "START",
+    "id": 421999196,
+    "time": "2021-06-25T12:39:00+0000",
+    "lat": 50.89037,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

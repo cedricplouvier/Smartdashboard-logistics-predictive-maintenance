@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Brugsesteenweg, 356A, 8800, Roeselare, Belgium",
+    "lng": 3.12262,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:45:32+0000",
+    "thirdPartyId": "Q-AEB-850",
+    "sigfoxDeviceId": "142E9B1",
+    "serial": "GFFACT",
+    "name": 487,
+    "state": "STOP",
+    "id": 421820093,
+    "time": "2021-06-25T07:39:00+0000",
+    "lat": 50.96833,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

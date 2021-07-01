@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Engerstraat, 147, 3071, Kortenberg, Belgium",
+    "lng": 4.54775,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-26T13:22:54+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "STOP",
+    "id": 422523159,
+    "time": "2021-06-26T13:17:00+0000",
+    "lat": 50.89554,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

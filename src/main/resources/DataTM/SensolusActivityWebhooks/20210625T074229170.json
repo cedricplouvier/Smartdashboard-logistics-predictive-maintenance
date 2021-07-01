@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E313, 2200, Herentals, Belgium",
+    "lng": 4.82994,
+    "accuracy": 25,
+    "fixTime": 70,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:42:28+0000",
+    "thirdPartyId": "Q-AAT-685",
+    "sigfoxDeviceId": "3D2086",
+    "serial": "3FHYCK",
+    "name": 850,
+    "state": "ON_THE_MOVE",
+    "id": 421818423,
+    "time": "2021-06-25T07:28:00+0000",
+    "lat": 51.15529,
+    "seqNbr": 44
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Michielenweg, 3700, Tongeren, Belgium",
+    "lng": 5.53474,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:30:16+0000",
+    "thirdPartyId": "Q-AFF-773",
+    "sigfoxDeviceId": "E1AD7C",
+    "serial": "P6Q3YU",
+    "name": 488,
+    "state": "START",
+    "id": 421745555,
+    "time": "2021-06-24T05:15:00+0000",
+    "lat": 50.78607,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Heggekapel, 9, 2275, Lille, Belgium",
+    "lng": 4.83048,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:05:48+0000",
+    "thirdPartyId": "1-QCR-620",
+    "sigfoxDeviceId": 1431369,
+    "serial": "2MPNUT",
+    "name": 1112,
+    "state": "ON_THE_MOVE",
+    "id": 421906093,
+    "time": "2021-06-25T09:38:00+0000",
+    "lat": 51.2174,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

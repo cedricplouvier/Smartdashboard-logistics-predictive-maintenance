@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Avenue de l'Hippodrome - Renbaanlaan, 1050, Ixelles - Elsene, Belgium",
+    "lng": 4.37984,
+    "accuracy": 15,
+    "fixTime": 43,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:22:38+0000",
+    "thirdPartyId": "Q-AFF-686",
+    "sigfoxDeviceId": "21A591",
+    "serial": "DFKZ7H",
+    "name": 145,
+    "state": "ON_THE_MOVE",
+    "id": 421948872,
+    "time": "2021-06-25T11:21:00+0000",
+    "lat": 50.81985,
+    "seqNbr": 35
+  },
+  "dataType": "activity"
+}

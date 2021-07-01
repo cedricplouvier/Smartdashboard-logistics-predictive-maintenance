@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hulshoutsesteenweg, 33, 2222, Heist-op-den-Berg, Belgium",
+    "lng": 4.76951,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:40:42+0000",
+    "thirdPartyId": "Q-AED-534",
+    "sigfoxDeviceId": "142E42E",
+    "serial": "N4WF46",
+    "name": 4409,
+    "state": "START",
+    "id": 422124396,
+    "time": "2021-06-25T16:37:00+0000",
+    "lat": 51.09002,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

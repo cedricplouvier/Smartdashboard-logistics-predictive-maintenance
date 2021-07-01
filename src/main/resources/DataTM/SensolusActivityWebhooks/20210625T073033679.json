@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Chemin des Fossés, 4, 6820, Florenville, Belgium",
+    "lng": 5.3077,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:30:32+0000",
+    "thirdPartyId": "Q-AFS-612",
+    "sigfoxDeviceId": "E1BA38",
+    "serial": "2CVCRE",
+    "name": 4401,
+    "state": "START",
+    "id": 421811838,
+    "time": "2021-06-25T07:08:00+0000",
+    "lat": 49.69544,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

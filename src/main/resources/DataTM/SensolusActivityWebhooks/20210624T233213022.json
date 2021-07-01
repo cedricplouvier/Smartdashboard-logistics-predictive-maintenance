@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Astridstraat, 3110, Rotselaar, Belgium",
+    "lng": 4.72743,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T23:32:12+0000",
+    "thirdPartyId": "QBG-055",
+    "sigfoxDeviceId": "E20701",
+    "serial": "VDQADT",
+    "name": 324,
+    "state": "STOP",
+    "id": 421640544,
+    "time": "2021-06-24T23:21:00+0000",
+    "lat": 50.94292,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vlasrietje, 2380, Ravels, Belgium",
+    "lng": 4.98885,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:48:55+0000",
+    "thirdPartyId": "Q-AHC-406",
+    "sigfoxDeviceId": "E20C00",
+    "serial": "Y7JZ7F",
+    "name": 905,
+    "state": "STOP",
+    "id": 422070684,
+    "time": "2021-06-25T14:38:00+0000",
+    "lat": 51.37883,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

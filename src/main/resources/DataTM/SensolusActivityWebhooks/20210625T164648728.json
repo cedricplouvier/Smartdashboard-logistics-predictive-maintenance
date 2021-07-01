@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vaartstraat, 66, 2235, Hulshout, Belgium",
+    "lng": 4.80661,
+    "accuracy": 15,
+    "fixTime": 37,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:46:48+0000",
+    "thirdPartyId": "Q-AFR-987",
+    "sigfoxDeviceId": "21A527",
+    "serial": "LPMZ2Q",
+    "name": 4402,
+    "state": "STOP",
+    "id": 422126802,
+    "time": "2021-06-25T16:35:00+0000",
+    "lat": 51.07947,
+    "seqNbr": 53
+  },
+  "dataType": "activity"
+}

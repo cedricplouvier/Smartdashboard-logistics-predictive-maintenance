@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kennedylaan, 3800, Sint-Truiden, Belgium",
+    "lng": 5.19234,
+    "accuracy": 20,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-26T06:55:30+0000",
+    "thirdPartyId": "Q-ACV-106",
+    "sigfoxDeviceId": "E1A3F9",
+    "serial": "NFTJ3W",
+    "name": 1135,
+    "state": "START",
+    "id": 422374725,
+    "time": "2021-06-26T06:39:00+0000",
+    "lat": 50.81168,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

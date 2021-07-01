@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Sellekensstraat, 3000, Leuven, Belgium",
+    "lng": 4.66922,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:37:40+0000",
+    "thirdPartyId": "1-QAQ-390",
+    "sigfoxDeviceId": 1.42E99,
+    "serial": "UFRFZC",
+    "name": 315,
+    "state": "START",
+    "id": 421851042,
+    "time": "2021-06-24T11:26:00+0000",
+    "lat": 50.88117,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

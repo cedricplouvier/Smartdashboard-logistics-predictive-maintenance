@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Baty Pire, 5340, Gesves, Belgium",
+    "lng": 5.07263,
+    "accuracy": 15,
+    "fixTime": 31,
+    "source": "gps",
+    "insertTime": "2021-06-25T23:45:04+0000",
+    "thirdPartyId": "Q-AHB-390",
+    "sigfoxDeviceId": "21A97B",
+    "serial": "GTQPJP",
+    "name": 467,
+    "state": "ON_THE_MOVE",
+    "id": 422264174,
+    "time": "2021-06-25T11:34:00+0000",
+    "lat": 50.41124,
+    "seqNbr": 34
+  },
+  "dataType": "activity"
+}

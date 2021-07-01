@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Steengroevenlaan, 3001, Leuven, Belgium",
+    "lng": 4.67643,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T16:01:32+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "START",
+    "id": 422577161,
+    "time": "2021-06-26T16:00:00+0000",
+    "lat": 50.8662,
+    "seqNbr": 7
+  },
+  "dataType": "activity"
+}

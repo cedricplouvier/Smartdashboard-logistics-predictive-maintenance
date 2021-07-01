@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Industriepark B, 2220, Heist-op-den-Berg, Belgium",
+    "lng": 4.73385,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:21:59+0000",
+    "thirdPartyId": "1-QDS-151",
+    "sigfoxDeviceId": 1.42E+650,
+    "serial": "9X3N2L",
+    "name": 906,
+    "state": "START",
+    "id": 421699426,
+    "time": "2021-06-25T03:06:00+0000",
+    "lat": 51.05942,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

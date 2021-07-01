@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Strijbroek, 1, 2860, Sint-Katelijne-Waver, Belgium",
+    "lng": 4.5176,
+    "accuracy": 5,
+    "fixTime": 63,
+    "source": "gps",
+    "insertTime": "2021-06-26T08:16:02+0000",
+    "thirdPartyId": "Q-ACX-376",
+    "sigfoxDeviceId": "3D2D13",
+    "serial": "YTV14D",
+    "name": 4412,
+    "state": "STOP",
+    "id": 422404570,
+    "time": "2021-06-26T08:04:00+0000",
+    "lat": 51.06105,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

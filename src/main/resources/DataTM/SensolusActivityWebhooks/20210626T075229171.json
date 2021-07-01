@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Ruiterslaan - Avenue des Cavaliers, 4, 1640, Sint-Genesius-Rode, Belgium",
+    "lng": 4.39627,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-26T07:52:28+0000",
+    "thirdPartyId": "Q-ALG-008",
+    "sigfoxDeviceId": "142784E",
+    "serial": "1CDGFL",
+    "name": 1195,
+    "state": "STOP",
+    "id": 422396128,
+    "time": "2021-06-26T07:40:00+0000",
+    "lat": 50.73878,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

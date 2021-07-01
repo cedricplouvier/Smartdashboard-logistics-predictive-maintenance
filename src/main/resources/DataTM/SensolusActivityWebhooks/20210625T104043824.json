@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Geleenlaan, 35, 3600, Genk, Belgium",
+    "lng": 5.51823,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:40:38+0000",
+    "thirdPartyId": "Q-AHK-097",
+    "sigfoxDeviceId": "E19FA1",
+    "serial": "QMKQ79",
+    "name": 1181,
+    "state": "START",
+    "id": 421925525,
+    "time": "2021-06-25T09:54:00+0000",
+    "lat": 50.91739,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

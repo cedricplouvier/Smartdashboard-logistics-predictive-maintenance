@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Noorderring, 8908, Ypres, Belgium",
+    "lng": 2.82963,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:10:56+0000",
+    "thirdPartyId": "Q-AEB-850",
+    "sigfoxDeviceId": "142E9B1",
+    "serial": "GFFACT",
+    "name": 487,
+    "state": "STOP",
+    "id": 421871841,
+    "time": "2021-06-25T09:05:00+0000",
+    "lat": 50.84881,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "lng": 4.81002,
+    "accuracy": 20,
+    "fixTime": 41,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:43:30+0000",
+    "thirdPartyId": "QLB-419",
+    "sigfoxDeviceId": "3D1499",
+    "serial": "99PHVM",
+    "name": 196,
+    "state": "START",
+    "id": 421724711,
+    "time": "2021-06-24T16:22:00+0000",
+    "lat": 50.98499,
+    "seqNbr": 62
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rittwegerlaan, 1830, Machelen, Belgium",
+    "lng": 4.42549,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T19:04:56+0000",
+    "thirdPartyId": "1-QAQ-390",
+    "sigfoxDeviceId": 1.42E99,
+    "serial": "UFRFZC",
+    "name": 315,
+    "state": "ON_THE_MOVE",
+    "id": 421560595,
+    "time": "2021-06-24T19:02:00+0000",
+    "lat": 50.91316,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

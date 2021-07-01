@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue du Bosquet, 6040, Charleroi, Belgium",
+    "lng": 4.4575,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:18:10+0000",
+    "thirdPartyId": "Q-ADG-344",
+    "sigfoxDeviceId": "E20C22",
+    "serial": "AA2CN9",
+    "name": 252,
+    "state": "ON_THE_MOVE",
+    "id": 421805065,
+    "time": "2021-06-25T07:16:00+0000",
+    "lat": 50.44781,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

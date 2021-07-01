@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Heisbroekweg, 2860, Sint-Katelijne-Waver, Belgium",
+    "lng": 4.50202,
+    "accuracy": 10,
+    "fixTime": 38,
+    "source": "gps",
+    "insertTime": "2021-06-24T17:32:52+0000",
+    "thirdPartyId": "QDF-765",
+    "sigfoxDeviceId": "21ACF6",
+    "serial": "3LMAQW",
+    "name": 417,
+    "state": "ON_THE_MOVE",
+    "id": 421524395,
+    "time": "2021-06-24T17:31:00+0000",
+    "lat": 51.05304,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

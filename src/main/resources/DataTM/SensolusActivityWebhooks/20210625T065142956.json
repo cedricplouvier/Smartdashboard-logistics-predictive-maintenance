@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Menisberg, 101, 1654, Beersel, Belgium",
+    "lng": 4.28115,
+    "accuracy": 15,
+    "fixTime": 37,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:51:41+0000",
+    "thirdPartyId": "QIC-270",
+    "sigfoxDeviceId": "193CC0",
+    "serial": "VKKLVR",
+    "name": 430,
+    "state": "START",
+    "id": 421789063,
+    "time": "2021-06-25T06:50:00+0000",
+    "lat": 50.75122,
+    "seqNbr": 29
+  },
+  "dataType": "activity"
+}

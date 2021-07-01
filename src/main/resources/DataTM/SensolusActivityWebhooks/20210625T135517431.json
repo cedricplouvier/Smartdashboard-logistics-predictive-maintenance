@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Westelijke Ring, 3200, Aarschot, Belgium",
+    "lng": 4.81052,
+    "accuracy": 20,
+    "fixTime": 50,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:55:14+0000",
+    "thirdPartyId": "QHW-078",
+    "sigfoxDeviceId": "3D14D5",
+    "serial": "HXL2KL",
+    "name": 163,
+    "state": "STOP",
+    "id": 422039654,
+    "time": "2021-06-25T13:43:00+0000",
+    "lat": 50.98513,
+    "seqNbr": 62
+  },
+  "dataType": "activity"
+}

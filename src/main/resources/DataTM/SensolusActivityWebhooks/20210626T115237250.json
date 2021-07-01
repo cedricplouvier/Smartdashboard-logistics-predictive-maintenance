@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Meestoofbrug, 2030, Antwerp, Belgium",
+    "lng": 4.33088,
+    "accuracy": 10,
+    "fixTime": 68,
+    "source": "gps",
+    "insertTime": "2021-06-26T11:52:36+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "ON_THE_MOVE",
+    "id": 422490921,
+    "time": "2021-06-26T08:05:00+0000",
+    "lat": 51.27906,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

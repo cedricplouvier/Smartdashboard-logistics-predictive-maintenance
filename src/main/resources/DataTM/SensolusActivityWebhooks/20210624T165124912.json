@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Schoonaerde, 3290, Diest, Belgium",
+    "lng": 5.0633,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T16:51:23+0000",
+    "thirdPartyId": "1-QDD-790",
+    "sigfoxDeviceId": 1.42E+439,
+    "serial": "9ZADUY",
+    "name": 139,
+    "state": "STOP",
+    "id": 421505495,
+    "time": "2021-06-24T16:45:00+0000",
+    "lat": 50.99224,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

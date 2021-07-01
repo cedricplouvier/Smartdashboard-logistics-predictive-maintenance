@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "N25A, 1435, Mont-Saint-Guibert, Belgium",
+    "lng": 4.64047,
+    "accuracy": 20,
+    "fixTime": 43,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:03:16+0000",
+    "thirdPartyId": "Q-ACT-546",
+    "sigfoxDeviceId": "3D1753",
+    "serial": "ZAR6X4",
+    "name": 1133,
+    "state": "START",
+    "id": 422044513,
+    "time": "2021-06-25T14:01:00+0000",
+    "lat": 50.65906,
+    "seqNbr": 60
+  },
+  "dataType": "activity"
+}

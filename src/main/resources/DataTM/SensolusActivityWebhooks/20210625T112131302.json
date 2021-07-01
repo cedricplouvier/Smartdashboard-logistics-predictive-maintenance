@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Drève des Dix Mètres, 50, 1410, Waterloo, Belgium",
+    "lng": 4.38512,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:21:30+0000",
+    "thirdPartyId": "Q-AEZ-168",
+    "sigfoxDeviceId": "E20C1C",
+    "serial": "L4CVPR",
+    "name": 913,
+    "state": "STOP",
+    "id": 421948218,
+    "time": "2021-06-24T11:08:00+0000",
+    "lat": 50.7211,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

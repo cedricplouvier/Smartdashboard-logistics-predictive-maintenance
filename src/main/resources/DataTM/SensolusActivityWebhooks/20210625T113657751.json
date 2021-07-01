@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Lilsedijk, 2340, Beerse, Belgium",
+    "lng": 4.83974,
+    "accuracy": 20,
+    "fixTime": 16,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:36:56+0000",
+    "thirdPartyId": "Q-AFJ-297",
+    "sigfoxDeviceId": "21A594",
+    "serial": "ZYV13Y",
+    "name": 1172,
+    "state": "START",
+    "id": 421957345,
+    "time": "2021-06-25T11:13:00+0000",
+    "lat": 51.30187,
+    "seqNbr": 27
+  },
+  "dataType": "activity"
+}

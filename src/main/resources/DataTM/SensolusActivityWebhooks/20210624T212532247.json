@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Weegstraat, 3201, Aarschot, Belgium",
+    "lng": 4.91617,
+    "accuracy": 15,
+    "fixTime": 39,
+    "source": "gps",
+    "insertTime": "2021-06-24T21:25:31+0000",
+    "thirdPartyId": "Q-AHB-393",
+    "sigfoxDeviceId": "3D1575",
+    "serial": "XAAYQ6",
+    "name": 469,
+    "state": "START",
+    "id": 421603760,
+    "time": "2021-06-24T21:24:00+0000",
+    "lat": 51.01055,
+    "seqNbr": 53
+  },
+  "dataType": "activity"
+}

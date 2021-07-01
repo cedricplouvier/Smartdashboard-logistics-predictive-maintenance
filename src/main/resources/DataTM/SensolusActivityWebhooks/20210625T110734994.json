@@ -1,0 +1,15 @@
+{
+  "data": {
+    "insertTime": "2021-06-25T11:07:34+0000",
+    "thirdPartyId": "UVE-408",
+    "sigfoxDeviceId": "3D2EB6",
+    "serial": "22KCAR",
+    "name": 161,
+    "state": "START",
+    "source": "gps",
+    "id": 421940533,
+    "time": "2021-06-25T11:06:00+0000",
+    "seqNbr": 38
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Dorpsstraat, 18, 3590, Diepenbeek, Belgium",
+    "lng": 5.42097,
+    "accuracy": 40,
+    "fixTime": 68,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:15:29+0000",
+    "thirdPartyId": "Q-AFJ-157",
+    "sigfoxDeviceId": "E20510",
+    "serial": "UCJR69",
+    "name": 1170,
+    "state": "START",
+    "id": 422113458,
+    "time": "2021-06-25T16:13:00+0000",
+    "lat": 50.90776,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

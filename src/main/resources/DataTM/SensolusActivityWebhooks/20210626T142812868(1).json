@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Studentenwijk Arenberg, 3001, Leuven, Belgium",
+    "lng": 4.68379,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T14:28:12+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "START",
+    "id": 422546353,
+    "time": "2021-06-26T14:27:00+0000",
+    "lat": 50.86734,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

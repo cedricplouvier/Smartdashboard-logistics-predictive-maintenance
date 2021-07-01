@@ -1,0 +1,15 @@
+{
+  "data": {
+    "insertTime": "2021-06-25T21:37:30+0000",
+    "thirdPartyId": "Q-AFB-625",
+    "sigfoxDeviceId": "3D1439",
+    "serial": "TGTVV1",
+    "name": 492,
+    "state": "STOP",
+    "source": "gps",
+    "id": 422227585,
+    "time": "2021-06-25T09:04:00+0000",
+    "seqNbr": 48
+  },
+  "dataType": "activity"
+}

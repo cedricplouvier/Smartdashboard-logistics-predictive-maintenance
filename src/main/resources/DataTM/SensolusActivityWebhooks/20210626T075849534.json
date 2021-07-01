@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "1500, Halle, Belgium",
+    "lng": 4.21243,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T07:58:48+0000",
+    "thirdPartyId": "1-QAQ-388",
+    "sigfoxDeviceId": "E20401",
+    "serial": "YKWWT9",
+    "name": 317,
+    "state": "STOP",
+    "id": 422398297,
+    "time": "2021-06-26T07:48:00+0000",
+    "lat": 50.72948,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

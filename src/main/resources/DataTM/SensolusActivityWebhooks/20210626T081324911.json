@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Nijverheidsstraat, 23, 2235, Hulshout, Belgium",
+    "lng": 4.81175,
+    "accuracy": 5,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-26T08:13:24+0000",
+    "thirdPartyId": "Q-AAY-358",
+    "sigfoxDeviceId": 1.42E+986,
+    "serial": "3U2U1G",
+    "name": 137,
+    "state": "START",
+    "id": 422403583,
+    "time": "2021-06-26T08:11:00+0000",
+    "lat": 51.07827,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

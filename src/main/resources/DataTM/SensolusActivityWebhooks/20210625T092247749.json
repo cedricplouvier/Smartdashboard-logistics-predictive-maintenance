@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Harenweg, 1932, Machelen, Belgium",
+    "lng": 4.43799,
+    "accuracy": 15,
+    "fixTime": 14,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:22:46+0000",
+    "thirdPartyId": "Q-ADT-516",
+    "sigfoxDeviceId": "2FC007",
+    "serial": "QW2HZA",
+    "name": 1161,
+    "state": "STOP",
+    "id": 421879242,
+    "time": "2021-06-25T09:12:00+0000",
+    "lat": 50.87854,
+    "seqNbr": 61
+  },
+  "dataType": "activity"
+}

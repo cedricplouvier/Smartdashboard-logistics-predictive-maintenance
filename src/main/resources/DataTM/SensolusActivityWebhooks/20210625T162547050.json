@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Liersesteenweg, 238, 2220, Heist-op-den-Berg, Belgium",
+    "lng": 4.71381,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:25:46+0000",
+    "thirdPartyId": "Q-AED-534",
+    "sigfoxDeviceId": "142E42E",
+    "serial": "N4WF46",
+    "name": 4409,
+    "state": "ON_THE_MOVE",
+    "id": 422117990,
+    "time": "2021-06-25T16:08:00+0000",
+    "lat": 51.06034,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

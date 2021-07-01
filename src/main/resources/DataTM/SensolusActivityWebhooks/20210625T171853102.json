@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Beverlo-Dorp, 3581, Beringen, Belgium",
+    "lng": 5.21921,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T17:11:46+0000",
+    "thirdPartyId": "1-QDD-790",
+    "sigfoxDeviceId": 1.42E+439,
+    "serial": "9ZADUY",
+    "name": 139,
+    "state": "STOP",
+    "id": 422138487,
+    "time": "2021-06-25T17:05:00+0000",
+    "lat": 51.08674,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

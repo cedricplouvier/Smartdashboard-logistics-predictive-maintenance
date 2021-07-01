@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Broekmansstraat, 103, 2221, Heist-op-den-Berg, Belgium",
+    "lng": 4.75265,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-26T12:40:27+0000",
+    "thirdPartyId": "Q-AKF-444",
+    "sigfoxDeviceId": "E208BF",
+    "serial": "E2TC7E",
+    "name": 509,
+    "state": "STOP",
+    "id": 422508104,
+    "time": "2021-06-26T12:29:00+0000",
+    "lat": 51.04207,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

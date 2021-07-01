@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vogelzanglaan, 2020, Antwerp, Belgium",
+    "lng": 4.4009,
+    "accuracy": 20,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:34:36+0000",
+    "thirdPartyId": "Q-AGR-941",
+    "sigfoxDeviceId": "E204A6",
+    "serial": "W69GXM",
+    "name": 914,
+    "state": "STOP",
+    "id": 421721390,
+    "time": "2021-06-25T04:24:00+0000",
+    "lat": 51.18957,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

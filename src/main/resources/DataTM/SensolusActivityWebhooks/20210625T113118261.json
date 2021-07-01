@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E411, 5336, Assesse, Belgium",
+    "lng": 4.9714,
+    "accuracy": 20,
+    "fixTime": 68,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:31:16+0000",
+    "thirdPartyId": "1-QCQ-952",
+    "sigfoxDeviceId": "142EC91",
+    "serial": "XK29FN",
+    "name": 411,
+    "state": "ON_THE_MOVE",
+    "id": 421954133,
+    "time": "2021-06-25T11:15:00+0000",
+    "lat": 50.4022,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Boslaan, 3650, Dilsen-Stokkem, Belgium",
+    "lng": 5.63585,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:24:38+0000",
+    "thirdPartyId": "1-QCR-620",
+    "sigfoxDeviceId": 1431369,
+    "serial": "2MPNUT",
+    "name": 1112,
+    "state": "ON_THE_MOVE",
+    "id": 421742827,
+    "time": "2021-06-25T05:11:00+0000",
+    "lat": 51.00875,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

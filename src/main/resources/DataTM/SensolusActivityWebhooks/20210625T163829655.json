@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Pierre Walkiersstraat, 10, 1600, Sint-Pieters-Leeuw, Belgium",
+    "lng": 4.29295,
+    "accuracy": 15,
+    "fixTime": 42,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:38:29+0000",
+    "thirdPartyId": "UTK-217",
+    "sigfoxDeviceId": "3D1850",
+    "serial": "WRCU1R",
+    "name": 504,
+    "state": "STOP",
+    "id": 422123496,
+    "time": "2021-06-25T16:27:00+0000",
+    "lat": 50.80794,
+    "seqNbr": 50
+  },
+  "dataType": "activity"
+}

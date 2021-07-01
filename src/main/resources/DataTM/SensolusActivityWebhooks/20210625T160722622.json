@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Textilstraße, 26, 4700, Eupen, Belgium",
+    "lng": 6.02122,
+    "accuracy": 10,
+    "fixTime": 42,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:07:22+0000",
+    "thirdPartyId": "1-QBE-297",
+    "sigfoxDeviceId": "21A9BE",
+    "serial": "D23AJL",
+    "name": 1106,
+    "state": "STOP",
+    "id": 422110054,
+    "time": "2021-06-25T15:56:00+0000",
+    "lat": 50.64418,
+    "seqNbr": 43
+  },
+  "dataType": "activity"
+}

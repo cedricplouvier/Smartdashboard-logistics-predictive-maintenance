@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "R0, 1070, Anderlecht, Belgium",
+    "lng": 4.28243,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T02:16:26+0000",
+    "thirdPartyId": "QBE-307",
+    "sigfoxDeviceId": "142EA62",
+    "serial": "3J9MT7",
+    "name": 305,
+    "state": "ON_THE_MOVE",
+    "id": 422301529,
+    "time": "2021-06-26T01:40:00+0000",
+    "lat": 50.84277,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

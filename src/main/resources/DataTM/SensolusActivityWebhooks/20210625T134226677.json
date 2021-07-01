@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue de Namur, 5000, Namur, Belgium",
+    "lng": 4.9056,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:42:26+0000",
+    "thirdPartyId": "2W94DR",
+    "sigfoxDeviceId": "142E46B",
+    "serial": "2W94DR",
+    "name": 183,
+    "state": "STOP",
+    "id": 422031967,
+    "time": "2021-06-25T13:36:00+0000",
+    "lat": 50.4663,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

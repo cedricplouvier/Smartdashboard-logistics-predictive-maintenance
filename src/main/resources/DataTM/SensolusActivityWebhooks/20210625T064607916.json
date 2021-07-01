@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Jan De Meuterstraat, 1861, Meise, Belgium",
+    "lng": 4.31601,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:46:06+0000",
+    "thirdPartyId": "1-QDD-085",
+    "sigfoxDeviceId": "E18097",
+    "serial": "LNGYEX",
+    "name": 120,
+    "state": "ON_THE_MOVE",
+    "id": 421785750,
+    "time": "2021-06-25T06:43:00+0000",
+    "lat": 50.95541,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

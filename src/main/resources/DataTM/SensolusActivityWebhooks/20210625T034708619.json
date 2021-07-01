@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "2160, Wommelgem, Belgium",
+    "lng": 4.54677,
+    "accuracy": 5,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:47:07+0000",
+    "thirdPartyId": "Q-ADN-819",
+    "sigfoxDeviceId": "E1A42B",
+    "serial": "W6Y3JD",
+    "name": 458,
+    "state": "STOP",
+    "id": 421706190,
+    "time": "2021-06-25T03:36:00+0000",
+    "lat": 51.20986,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

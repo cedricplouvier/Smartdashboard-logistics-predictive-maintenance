@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Liersesteenweg, 174, 2520, Ranst, Belgium",
+    "lng": 4.57683,
+    "accuracy": 10,
+    "fixTime": 45,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:37:30+0000",
+    "thirdPartyId": "QKD-932",
+    "sigfoxDeviceId": "21A965",
+    "serial": "H12EMM",
+    "name": 222,
+    "state": "STOP",
+    "id": 421957673,
+    "time": "2021-06-25T11:26:00+0000",
+    "lat": 51.15017,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

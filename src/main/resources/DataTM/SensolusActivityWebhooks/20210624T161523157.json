@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Zandstraat / Grootlosestraat, 4A, 3120, Tremelo, Belgium",
+    "lng": 4.71091,
+    "accuracy": 20,
+    "fixTime": 52,
+    "source": "gps",
+    "insertTime": "2021-06-24T16:15:22+0000",
+    "thirdPartyId": "QIC-270",
+    "sigfoxDeviceId": "193CC0",
+    "serial": "VKKLVR",
+    "name": 430,
+    "state": "START",
+    "id": 421489540,
+    "time": "2021-06-24T04:05:00+0000",
+    "lat": 51.01276,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

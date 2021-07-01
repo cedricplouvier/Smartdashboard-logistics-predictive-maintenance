@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Marthe Versichelenstraat, 1, 9052, Ghent, Belgium",
+    "lng": 3.74343,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:55:38+0000",
+    "thirdPartyId": "QHZ-762",
+    "sigfoxDeviceId": "E20508",
+    "serial": "2E1CTM",
+    "name": 169,
+    "state": "STOP",
+    "id": 421968325,
+    "time": "2021-06-25T11:48:00+0000",
+    "lat": 51.00791,
+    "seqNbr": 7
+  },
+  "dataType": "activity"
+}

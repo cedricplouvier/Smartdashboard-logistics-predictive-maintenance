@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "3980, Tessenderlo, Belgium",
+    "lng": 5.14685,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:48:22+0000",
+    "thirdPartyId": "1-QDS-151",
+    "sigfoxDeviceId": 1.42E+650,
+    "serial": "9X3N2L",
+    "name": 906,
+    "state": "STOP",
+    "id": 421857616,
+    "time": "2021-06-25T08:42:00+0000",
+    "lat": 51.06948,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

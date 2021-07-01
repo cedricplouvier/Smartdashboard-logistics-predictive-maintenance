@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "9130, Beveren, Belgium",
+    "lng": 4.27078,
+    "accuracy": 10,
+    "fixTime": 35,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:28:20+0000",
+    "thirdPartyId": "QJX-850",
+    "sigfoxDeviceId": "3D2273",
+    "serial": "L6QLNF",
+    "name": 182,
+    "state": "STOP",
+    "id": 422059119,
+    "time": "2021-06-25T14:17:00+0000",
+    "lat": 51.27649,
+    "seqNbr": 57
+  },
+  "dataType": "activity"
+}

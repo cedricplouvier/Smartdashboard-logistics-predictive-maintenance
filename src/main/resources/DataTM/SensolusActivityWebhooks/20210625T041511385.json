@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Raaftuinweg, 2, 2380, Ravels, Belgium",
+    "lng": 4.98937,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:15:10+0000",
+    "thirdPartyId": "Q-AHC-406",
+    "sigfoxDeviceId": "E20C00",
+    "serial": "Y7JZ7F",
+    "name": 905,
+    "state": "START",
+    "id": 421714744,
+    "time": "2021-06-25T03:05:00+0000",
+    "lat": 51.37829,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

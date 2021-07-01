@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E314, 3530, Houthalen-Helchteren, Belgium",
+    "lng": 5.37229,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:05:24+0000",
+    "thirdPartyId": "Q-ALY-434",
+    "sigfoxDeviceId": 1.42E+406,
+    "serial": "U9V3CM",
+    "name": 1200,
+    "state": "ON_THE_MOVE",
+    "id": 422079819,
+    "time": "2021-06-24T15:06:00+0000",
+    "lat": 51.01244,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

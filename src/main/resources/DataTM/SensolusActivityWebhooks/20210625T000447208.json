@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Gudstraat, 9310, Aalst, Belgium",
+    "lng": 4.07862,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T00:04:46+0000",
+    "thirdPartyId": "Q-ADH-605",
+    "sigfoxDeviceId": "142DCA0",
+    "serial": "DTKEFF",
+    "name": 254,
+    "state": "START",
+    "id": 421648956,
+    "time": "2021-06-24T12:51:00+0000",
+    "lat": 50.96099,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

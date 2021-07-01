@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hombeeksesteenweg, 2800, Mechelen, Belgium",
+    "lng": 4.45951,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:06:46+0000",
+    "thirdPartyId": "Q-AJV-182",
+    "sigfoxDeviceId": "E21012",
+    "serial": "13C2AA",
+    "name": 1192,
+    "state": "START",
+    "id": 421906607,
+    "time": "2021-06-25T10:03:00+0000",
+    "lat": 51.01498,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

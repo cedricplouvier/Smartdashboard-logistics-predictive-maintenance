@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Havenkant, 3000, Leuven, Belgium",
+    "lng": 4.70398,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:10:53+0000",
+    "thirdPartyId": "Q-ADJ-475",
+    "sigfoxDeviceId": "E20502",
+    "serial": "MMHGC3",
+    "name": 471,
+    "state": "STOP",
+    "id": 422082575,
+    "time": "2021-06-25T15:00:00+0000",
+    "lat": 50.88727,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

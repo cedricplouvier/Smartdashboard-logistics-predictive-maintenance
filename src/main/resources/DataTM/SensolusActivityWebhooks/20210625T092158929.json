@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Oudstrijdersstraat, 64, 1600, Sint-Pieters-Leeuw, Belgium",
+    "lng": 4.29643,
+    "accuracy": 15,
+    "fixTime": 46,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:21:54+0000",
+    "thirdPartyId": "1-QBI-133",
+    "sigfoxDeviceId": "21A9E3",
+    "serial": "VEJE34",
+    "name": 1119,
+    "state": "STOP",
+    "id": 421878707,
+    "time": "2021-06-25T09:10:00+0000",
+    "lat": 50.80864,
+    "seqNbr": 29
+  },
+  "dataType": "activity"
+}

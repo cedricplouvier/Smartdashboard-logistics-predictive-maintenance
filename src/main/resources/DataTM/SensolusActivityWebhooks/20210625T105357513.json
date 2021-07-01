@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E40, 9090, Melle, Belgium",
+    "lng": 3.76911,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:53:56+0000",
+    "thirdPartyId": "QBE-307",
+    "sigfoxDeviceId": "142EA62",
+    "serial": "3J9MT7",
+    "name": 305,
+    "state": "ON_THE_MOVE",
+    "id": 421932962,
+    "time": "2021-06-25T09:51:00+0000",
+    "lat": 50.99944,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

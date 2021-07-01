@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Westmeerbeeksteenweg, 47, 2235, Hulshout, Belgium",
+    "lng": 4.79436,
+    "accuracy": 5,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-26T05:30:50+0000",
+    "thirdPartyId": "1-QEQ-957",
+    "sigfoxDeviceId": "142BF6C",
+    "serial": "7YR77E",
+    "name": 955,
+    "state": "STOP",
+    "id": 422347860,
+    "time": "2021-06-25T08:38:00+0000",
+    "lat": 51.05531,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

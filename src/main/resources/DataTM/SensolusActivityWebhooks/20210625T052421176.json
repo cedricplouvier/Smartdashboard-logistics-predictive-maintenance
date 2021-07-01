@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Tisseltsesteenweg, 2830, Willebroek, Belgium",
+    "lng": 4.35783,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:24:20+0000",
+    "thirdPartyId": "Q-ALG-604",
+    "sigfoxDeviceId": "142DC61",
+    "serial": "RWTAXD",
+    "name": 1198,
+    "state": "STOP",
+    "id": 421742686,
+    "time": "2021-06-25T05:18:00+0000",
+    "lat": 51.05418,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

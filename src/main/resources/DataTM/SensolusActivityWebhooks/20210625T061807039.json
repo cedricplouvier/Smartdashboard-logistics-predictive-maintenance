@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Driebunderweg, 4, 2830, Willebroek, Belgium",
+    "lng": 4.37338,
+    "accuracy": 20,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:18:06+0000",
+    "thirdPartyId": "Q-AJV-193",
+    "sigfoxDeviceId": "E20EE7",
+    "serial": "Y9Q3GH",
+    "name": 1190,
+    "state": "STOP",
+    "id": 421769975,
+    "time": "2021-06-25T06:07:00+0000",
+    "lat": 51.05374,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

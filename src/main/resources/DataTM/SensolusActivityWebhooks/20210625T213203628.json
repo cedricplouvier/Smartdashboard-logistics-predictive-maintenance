@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Molsesteenweg, 60, 2490, Balen, Belgium",
+    "lng": 5.14194,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T21:32:02+0000",
+    "thirdPartyId": "UTW-870",
+    "sigfoxDeviceId": 1.42E45,
+    "serial": "EPUJJ3",
+    "name": 301,
+    "state": "START",
+    "id": 422226363,
+    "time": "2021-06-25T09:53:00+0000",
+    "lat": 51.17408,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

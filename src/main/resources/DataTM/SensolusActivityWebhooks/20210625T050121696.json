@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "2440, Geel, Belgium",
+    "lng": 5.01196,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:01:20+0000",
+    "thirdPartyId": "Q-AAU-075",
+    "sigfoxDeviceId": "142EA5C",
+    "serial": "2UTW99",
+    "name": 853,
+    "state": "STOP",
+    "id": 421732025,
+    "time": "2021-06-25T04:55:00+0000",
+    "lat": 51.11646,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

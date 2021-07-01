@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hardigny, 19I, 6600, Bastogne, Belgium",
+    "lng": 5.80544,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:31:50+0000",
+    "thirdPartyId": "Q-AFS-612",
+    "sigfoxDeviceId": "E1BA38",
+    "serial": "2CVCRE",
+    "name": 4401,
+    "state": "ON_THE_MOVE",
+    "id": 421920584,
+    "time": "2021-06-25T10:08:00+0000",
+    "lat": 50.07982,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

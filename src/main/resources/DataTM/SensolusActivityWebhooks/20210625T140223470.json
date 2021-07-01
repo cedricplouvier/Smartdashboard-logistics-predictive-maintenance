@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Weerstanderskaai, 9402, Ninove, Belgium",
+    "lng": 4.03438,
+    "accuracy": 15,
+    "fixTime": 15,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:02:21+0000",
+    "thirdPartyId": "Q-AFS-615",
+    "sigfoxDeviceId": "3D168B",
+    "serial": "9HGG3V",
+    "name": 4403,
+    "state": "STOP",
+    "id": 422043899,
+    "time": "2021-06-25T10:57:00+0000",
+    "lat": 50.83566,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

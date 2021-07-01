@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Stationsstraat, 3110, Rotselaar, Belgium",
+    "lng": 4.73053,
+    "accuracy": 10,
+    "fixTime": 34,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:15:02+0000",
+    "thirdPartyId": "1-QFF-669",
+    "sigfoxDeviceId": "21A95D",
+    "serial": "XD43XY",
+    "name": 434,
+    "state": "STOP",
+    "id": 421911215,
+    "time": "2021-06-25T10:04:00+0000",
+    "lat": 50.94218,
+    "seqNbr": 34
+  },
+  "dataType": "activity"
+}

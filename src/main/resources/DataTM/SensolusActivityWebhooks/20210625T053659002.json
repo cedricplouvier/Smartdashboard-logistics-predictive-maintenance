@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rouwbergskens, 2340, Beerse, Belgium",
+    "lng": 4.83454,
+    "accuracy": 5,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:36:58+0000",
+    "thirdPartyId": "Q-AGC-888",
+    "sigfoxDeviceId": "E204F7",
+    "serial": "XHGWP3",
+    "name": 752,
+    "state": "START",
+    "id": 421748780,
+    "time": "2021-06-25T05:33:00+0000",
+    "lat": 51.30399,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Oostelijke Ring, 3200, Aarschot, Belgium",
+    "lng": 4.8416,
+    "accuracy": 10,
+    "fixTime": 32,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:58:11+0000",
+    "thirdPartyId": "Q-ACU-765",
+    "sigfoxDeviceId": "2FC264",
+    "serial": "NNQMKT",
+    "name": 1142,
+    "state": "START",
+    "id": 421792665,
+    "time": "2021-06-25T06:55:00+0000",
+    "lat": 50.98527,
+    "seqNbr": 54
+  },
+  "dataType": "activity"
+}

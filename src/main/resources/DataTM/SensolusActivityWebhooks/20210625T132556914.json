@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Route de Florenville, 6830, Bouillon, Belgium",
+    "lng": 5.07767,
+    "accuracy": 15,
+    "fixTime": 29,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:25:56+0000",
+    "thirdPartyId": "Q-AFB-625",
+    "sigfoxDeviceId": "3D1439",
+    "serial": "TGTVV1",
+    "name": 492,
+    "state": "START",
+    "id": 422022099,
+    "time": "2021-06-25T12:44:00+0000",
+    "lat": 49.78314,
+    "seqNbr": 53
+  },
+  "dataType": "activity"
+}

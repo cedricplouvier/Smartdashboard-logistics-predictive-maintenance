@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Grote Baan, 3530, Houthalen-Helchteren, Belgium",
+    "lng": 5.38196,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T12:14:06+0000",
+    "thirdPartyId": "1-QDS-151",
+    "sigfoxDeviceId": 1.42E+650,
+    "serial": "9X3N2L",
+    "name": 906,
+    "state": "ON_THE_MOVE",
+    "id": 422498833,
+    "time": "2021-06-25T11:49:00+0000",
+    "lat": 51.06878,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

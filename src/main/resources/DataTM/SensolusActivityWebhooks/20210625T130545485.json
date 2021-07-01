@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Groene Laan, 2830, Willebroek, Belgium",
+    "lng": 4.36476,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:05:44+0000",
+    "thirdPartyId": "Q-ALY-434",
+    "sigfoxDeviceId": 1.42E+406,
+    "serial": "U9V3CM",
+    "name": 1200,
+    "state": "START",
+    "id": 422010220,
+    "time": "2021-06-25T13:04:00+0000",
+    "lat": 51.06586,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Antwerpsesteenweg, 19, 2840, Rumst, Belgium",
+    "lng": 4.45131,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T19:24:52+0000",
+    "thirdPartyId": "Q-ADH-605",
+    "sigfoxDeviceId": "142DCA0",
+    "serial": "DTKEFF",
+    "name": 254,
+    "state": "STOP",
+    "id": 421567777,
+    "time": "2021-06-24T14:31:00+0000",
+    "lat": 51.08783,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

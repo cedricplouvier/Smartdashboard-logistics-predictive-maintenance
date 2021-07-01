@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Welvaartstraat, 14/2, 2200, Herentals, Belgium",
+    "lng": 4.79979,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:30:06+0000",
+    "thirdPartyId": "Q-AHB-387",
+    "sigfoxDeviceId": "E1BCCB",
+    "serial": "KAM11G",
+    "name": 470,
+    "state": "STOP",
+    "id": 421776753,
+    "time": "2021-06-25T06:19:00+0000",
+    "lat": 51.16017,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

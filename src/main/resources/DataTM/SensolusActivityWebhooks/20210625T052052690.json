@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Pathoekeweg, 100, 8000, Bruges, Belgium",
+    "lng": 3.21489,
+    "accuracy": 10,
+    "fixTime": 95,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:20:52+0000",
+    "thirdPartyId": "Q-AHB-393",
+    "sigfoxDeviceId": "3D1575",
+    "serial": "XAAYQ6",
+    "name": 469,
+    "state": "ON_THE_MOVE",
+    "id": 421741099,
+    "time": "2021-06-25T05:17:00+0000",
+    "lat": 51.23406,
+    "seqNbr": 56
+  },
+  "dataType": "activity"
+}

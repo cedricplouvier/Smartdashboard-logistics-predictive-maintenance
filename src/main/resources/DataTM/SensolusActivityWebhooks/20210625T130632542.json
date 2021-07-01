@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Koning Boudewijnlaan, 2250, Olen, Belgium",
+    "lng": 4.85731,
+    "accuracy": 20,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:06:31+0000",
+    "thirdPartyId": "Q-AMN-969",
+    "sigfoxDeviceId": "142D83C",
+    "serial": "WMR2JP",
+    "name": 4419,
+    "state": "START",
+    "id": 422010711,
+    "time": "2021-06-24T15:09:00+0000",
+    "lat": 51.14833,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

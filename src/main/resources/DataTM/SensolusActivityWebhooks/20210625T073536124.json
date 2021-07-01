@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue de Maastricht, 95, 4600, Visé, Belgium",
+    "lng": 5.69967,
+    "accuracy": 10,
+    "fixTime": 26,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:35:34+0000",
+    "thirdPartyId": "Q-AHP-385",
+    "sigfoxDeviceId": "2FC2FA",
+    "serial": "NETYMM",
+    "name": 440,
+    "state": "STOP",
+    "id": 421814581,
+    "time": "2021-06-25T07:24:00+0000",
+    "lat": 50.75058,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

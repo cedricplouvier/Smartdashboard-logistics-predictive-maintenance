@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "'s-Hertogenlaan, 3000, Leuven, Belgium",
+    "lng": 4.68474,
+    "accuracy": 5,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-24T16:48:40+0000",
+    "thirdPartyId": "Q-AFL-035",
+    "sigfoxDeviceId": "E1FF81",
+    "serial": "UE7WVR",
+    "name": 436,
+    "state": "STOP",
+    "id": 421504221,
+    "time": "2021-06-24T16:37:00+0000",
+    "lat": 50.88685,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

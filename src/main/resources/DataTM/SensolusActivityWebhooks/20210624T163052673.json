@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "G. Gezellelaan, 22, 2288, Grobbendonk, Belgium",
+    "lng": 4.73907,
+    "accuracy": 25,
+    "fixTime": 25,
+    "source": "gps",
+    "insertTime": "2021-06-24T16:30:51+0000",
+    "thirdPartyId": "1-QCO-925",
+    "sigfoxDeviceId": "3D16F3",
+    "serial": "RWYGL9",
+    "name": 506,
+    "state": "STOP",
+    "id": 421496370,
+    "time": "2021-06-24T16:19:00+0000",
+    "lat": 51.16832,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

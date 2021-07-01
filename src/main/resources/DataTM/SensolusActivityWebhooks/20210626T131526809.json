@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vossenberglei, 2861, Sint-Katelijne-Waver, Belgium",
+    "lng": 4.57176,
+    "accuracy": 10,
+    "fixTime": 31,
+    "source": "gps",
+    "insertTime": "2021-06-26T13:15:26+0000",
+    "thirdPartyId": "Q-AHB-390",
+    "sigfoxDeviceId": "21A97B",
+    "serial": "GTQPJP",
+    "name": 467,
+    "state": "STOP",
+    "id": 422520591,
+    "time": "2021-06-26T13:04:00+0000",
+    "lat": 51.06455,
+    "seqNbr": 52
+  },
+  "dataType": "activity"
+}

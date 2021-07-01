@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue Mognée, 19, 4590, Ouffet, Belgium",
+    "lng": 5.46662,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:56:03+0000",
+    "thirdPartyId": "Q-ADJ-475",
+    "sigfoxDeviceId": "E20502",
+    "serial": "MMHGC3",
+    "name": 471,
+    "state": "START",
+    "id": 421791543,
+    "time": "2021-06-25T06:53:00+0000",
+    "lat": 50.44136,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

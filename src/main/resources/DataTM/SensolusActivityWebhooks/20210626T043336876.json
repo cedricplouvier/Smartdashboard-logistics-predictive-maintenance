@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Romeynsweel, 2030, Antwerp, Belgium",
+    "lng": 4.38325,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-26T04:33:36+0000",
+    "thirdPartyId": "Q-AYC-514",
+    "sigfoxDeviceId": "E2109B",
+    "serial": "R7NQ2Y",
+    "name": 503,
+    "state": "START",
+    "id": 422332933,
+    "time": "2021-06-26T03:46:00+0000",
+    "lat": 51.26851,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E411, 1360, Perwez, Belgium",
+    "lng": 4.73878,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:30:03+0000",
+    "thirdPartyId": "1-QCQ-952",
+    "sigfoxDeviceId": "142EC91",
+    "serial": "XK29FN",
+    "name": 411,
+    "state": "ON_THE_MOVE",
+    "id": 421745464,
+    "time": "2021-06-25T04:12:00+0000",
+    "lat": 50.63896,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "R0, 1702, Dilbeek, Belgium",
+    "lng": 4.27735,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T19:15:24+0000",
+    "thirdPartyId": "Q-AED-526",
+    "sigfoxDeviceId": 1.42E+651,
+    "serial": "EKFMD7",
+    "name": 4410,
+    "state": "ON_THE_MOVE",
+    "id": 421564471,
+    "time": "2021-06-24T14:13:00+0000",
+    "lat": 50.87717,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue Maurice Brohée, 7300, Boussu, Belgium",
+    "lng": 3.80499,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:04:30+0000",
+    "thirdPartyId": "Q-ADG-344",
+    "sigfoxDeviceId": "E20C22",
+    "serial": "AA2CN9",
+    "name": 252,
+    "state": "ON_THE_MOVE",
+    "id": 421973754,
+    "time": "2021-06-25T12:02:00+0000",
+    "lat": 50.429,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

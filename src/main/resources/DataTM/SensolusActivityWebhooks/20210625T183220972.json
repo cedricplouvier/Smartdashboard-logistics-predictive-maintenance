@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Acaciastraat, 2440, Geel, Belgium",
+    "lng": 5.01322,
+    "accuracy": 10,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T18:32:20+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "START",
+    "id": 422170389,
+    "time": "2021-06-25T18:30:00+0000",
+    "lat": 51.11943,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Frans Blanckaertdreef, 9300, Aalst, Belgium",
+    "lng": 4.04484,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:35:24+0000",
+    "thirdPartyId": "Q-AAR-619",
+    "sigfoxDeviceId": "E17D49",
+    "serial": "WXYJ2X",
+    "name": 908,
+    "state": "START",
+    "id": 421992076,
+    "time": "2021-06-25T12:34:00+0000",
+    "lat": 50.92718,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Lammerdries-Oost, 24B, 2250, Olen, Belgium",
+    "lng": 4.90863,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:11:22+0000",
+    "thirdPartyId": "1-QAR-891",
+    "sigfoxDeviceId": "E1AEE1",
+    "serial": "1VZXU7",
+    "name": 313,
+    "state": "STOP",
+    "id": 421713436,
+    "time": "2021-06-25T04:00:00+0000",
+    "lat": 51.14956,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

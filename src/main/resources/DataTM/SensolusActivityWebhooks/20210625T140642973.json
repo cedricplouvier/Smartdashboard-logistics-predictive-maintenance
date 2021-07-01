@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Keizerstraat, 9120, Beveren, Belgium",
+    "lng": 4.2476,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:06:42+0000",
+    "thirdPartyId": "QJJ-161",
+    "sigfoxDeviceId": "142EA0C",
+    "serial": "T9LR7D",
+    "name": 605,
+    "state": "START",
+    "id": 422046661,
+    "time": "2021-06-25T05:32:00+0000",
+    "lat": 51.18244,
+    "seqNbr": 7
+  },
+  "dataType": "activity"
+}

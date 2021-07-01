@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Schrieksebaan, 65, 3120, Tremelo, Belgium",
+    "lng": 4.70671,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T09:34:16+0000",
+    "thirdPartyId": "Q-ALF-997",
+    "sigfoxDeviceId": 1.42E45,
+    "serial": "GHLPH7",
+    "name": 1197,
+    "state": "STOP",
+    "id": 422437932,
+    "time": "2021-06-25T09:26:00+0000",
+    "lat": 50.99361,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

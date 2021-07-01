@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Bettegem, 1731, Asse, Belgium",
+    "lng": 4.25358,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T22:44:00+0000",
+    "thirdPartyId": "Q-ACE-972",
+    "sigfoxDeviceId": "E205D2",
+    "serial": "UMTFA4",
+    "name": 314,
+    "state": "STOP",
+    "id": 422243811,
+    "time": "2021-06-25T22:33:00+0000",
+    "lat": 50.89649,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Zone Kamp C, 2, 2260, Westerlo, Belgium",
+    "lng": 4.86247,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:29:14+0000",
+    "thirdPartyId": "Q-AHB-387",
+    "sigfoxDeviceId": "E1BCCB",
+    "serial": "KAM11G",
+    "name": 470,
+    "state": "START",
+    "id": 422024123,
+    "time": "2021-06-25T13:27:00+0000",
+    "lat": 51.13229,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kazernestraat, 1, 1731, Asse, Belgium",
+    "lng": 4.27677,
+    "accuracy": 15,
+    "fixTime": 11,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:21:52+0000",
+    "thirdPartyId": "Q-ACB-525",
+    "sigfoxDeviceId": "3D2D8E",
+    "serial": "E3F6AP",
+    "name": 1132,
+    "state": "START",
+    "id": 421983941,
+    "time": "2021-06-25T12:10:00+0000",
+    "lat": 50.89163,
+    "seqNbr": 41
+  },
+  "dataType": "activity"
+}

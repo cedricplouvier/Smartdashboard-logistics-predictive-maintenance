@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hoefstraat, 2222, Heist-op-den-Berg, Belgium",
+    "lng": 4.7698,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T17:05:10+0000",
+    "thirdPartyId": "Q-AED-534",
+    "sigfoxDeviceId": "142E42E",
+    "serial": "N4WF46",
+    "name": 4409,
+    "state": "STOP",
+    "id": 421512766,
+    "time": "2021-06-24T16:59:00+0000",
+    "lat": 51.09026,
+    "seqNbr": 7
+  },
+  "dataType": "activity"
+}

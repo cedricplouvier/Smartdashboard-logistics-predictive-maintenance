@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vichtseweg, 109-113, 8790, Waregem, Belgium",
+    "lng": 3.41179,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:31:30+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "ON_THE_MOVE",
+    "id": 421847292,
+    "time": "2021-06-25T08:29:00+0000",
+    "lat": 50.85684,
+    "seqNbr": 7
+  },
+  "dataType": "activity"
+}

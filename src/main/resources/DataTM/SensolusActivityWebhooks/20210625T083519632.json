@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Geerdegem-Schonenberg, 78, 2800, Mechelen, Belgium",
+    "lng": 4.46353,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:35:18+0000",
+    "thirdPartyId": "Q-AJV-182",
+    "sigfoxDeviceId": "E21012",
+    "serial": "13C2AA",
+    "name": 1192,
+    "state": "STOP",
+    "id": 421849592,
+    "time": "2021-06-25T08:24:00+0000",
+    "lat": 51.01357,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

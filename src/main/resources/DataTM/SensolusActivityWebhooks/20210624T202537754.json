@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kareelveld, 8, 3000, Leuven, Belgium",
+    "lng": 4.69054,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T20:25:36+0000",
+    "thirdPartyId": "Q-ABG-803",
+    "sigfoxDeviceId": 1431521,
+    "serial": "YCL4RX",
+    "name": 444,
+    "state": "ON_THE_MOVE",
+    "id": 421587450,
+    "time": "2021-06-23T10:25:00+0000",
+    "lat": 50.89212,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

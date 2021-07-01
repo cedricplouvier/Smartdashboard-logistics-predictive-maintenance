@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue Bouvier - Bouvierstraat, 1000, Molenbeek-Saint-Jean - Sint-Jans-Molenbeek, Belgium",
+    "lng": 4.3472,
+    "accuracy": 15,
+    "fixTime": 40,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:45:34+0000",
+    "thirdPartyId": "Q-ABA-124",
+    "sigfoxDeviceId": "3D2283",
+    "serial": "LPXP99",
+    "name": 176,
+    "state": "STOP",
+    "id": 421752595,
+    "time": "2021-06-25T05:34:00+0000",
+    "lat": 50.86168,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

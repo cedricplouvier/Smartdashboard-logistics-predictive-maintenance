@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kouterstraat, 11B, 8560, Wevelgem, Belgium",
+    "lng": 3.20686,
+    "accuracy": 5,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:04:24+0000",
+    "thirdPartyId": "Q-AED-101",
+    "sigfoxDeviceId": "142EC1C",
+    "serial": "2NQV2Y",
+    "name": 497,
+    "state": "START",
+    "id": 421905213,
+    "time": "2021-06-25T10:03:00+0000",
+    "lat": 50.8131,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

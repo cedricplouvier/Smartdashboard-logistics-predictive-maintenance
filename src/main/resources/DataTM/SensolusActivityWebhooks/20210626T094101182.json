@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Oude Heibaan, 29, 2235, Hulshout, Belgium",
+    "lng": 4.81327,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-26T09:41:00+0000",
+    "thirdPartyId": "1-QFF-884",
+    "sigfoxDeviceId": "142C38C",
+    "serial": "AZA6MF",
+    "name": 409,
+    "state": "STOP",
+    "id": 422440903,
+    "time": "2021-06-26T09:29:00+0000",
+    "lat": 51.0751,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

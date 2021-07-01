@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue Zénoble Gramme, 7181, Seneffe, Belgium",
+    "lng": 4.20971,
+    "accuracy": 5,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:31:20+0000",
+    "thirdPartyId": "Q-AED-527",
+    "sigfoxDeviceId": "142EBC7",
+    "serial": "VT2T6Z",
+    "name": 4407,
+    "state": "START",
+    "id": 421884509,
+    "time": "2021-06-25T09:30:00+0000",
+    "lat": 50.5345,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

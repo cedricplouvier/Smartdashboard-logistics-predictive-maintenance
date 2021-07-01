@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "2830, Willebroek, Belgium",
+    "lng": 4.36307,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:44:22+0000",
+    "thirdPartyId": "Q-ALY-434",
+    "sigfoxDeviceId": 1.42E+406,
+    "serial": "U9V3CM",
+    "name": 1200,
+    "state": "STOP",
+    "id": 421725078,
+    "time": "2021-06-25T04:38:00+0000",
+    "lat": 51.06747,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

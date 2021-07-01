@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "6960, Manhay, Belgium",
+    "lng": 5.71062,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:34:34+0000",
+    "thirdPartyId": "Q-AFS-612",
+    "sigfoxDeviceId": "E1BA38",
+    "serial": "2CVCRE",
+    "name": 4401,
+    "state": "STOP",
+    "id": 421956012,
+    "time": "2021-06-25T11:23:00+0000",
+    "lat": 50.30374,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

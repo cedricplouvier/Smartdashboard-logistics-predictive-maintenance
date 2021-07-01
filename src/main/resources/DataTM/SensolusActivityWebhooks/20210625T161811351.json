@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Avenue de Vilvorde - Vilvoordselaan, 1130, City of Brussels, Belgium",
+    "lng": 4.38967,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:18:10+0000",
+    "thirdPartyId": "Q-ACB-524",
+    "sigfoxDeviceId": "143180B",
+    "serial": "GDPPLJ",
+    "name": 1131,
+    "state": "START",
+    "id": 422114584,
+    "time": "2021-06-25T16:17:00+0000",
+    "lat": 50.88516,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

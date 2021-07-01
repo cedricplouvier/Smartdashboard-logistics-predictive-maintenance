@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hendrik van Veldekesingel, 3500, Hasselt, Belgium",
+    "lng": 5.3168,
+    "accuracy": 15,
+    "fixTime": 21,
+    "source": "gps",
+    "insertTime": "2021-06-25T17:52:36+0000",
+    "thirdPartyId": "Q-AFB-625",
+    "sigfoxDeviceId": "3D1439",
+    "serial": "TGTVV1",
+    "name": 492,
+    "state": "STOP",
+    "id": 422154943,
+    "time": "2021-06-25T17:41:00+0000",
+    "lat": 50.92657,
+    "seqNbr": 58
+  },
+  "dataType": "activity"
+}

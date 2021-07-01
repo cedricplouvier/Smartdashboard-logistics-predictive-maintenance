@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "R1, 2000, Antwerp, Belgium",
+    "lng": 4.37798,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T19:05:34+0000",
+    "thirdPartyId": "Q-ABG-803",
+    "sigfoxDeviceId": 1431521,
+    "serial": "YCL4RX",
+    "name": 444,
+    "state": "ON_THE_MOVE",
+    "id": 421560827,
+    "time": "2021-06-24T16:12:00+0000",
+    "lat": 51.19998,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hoogbuul, 56, 2250, Olen, Belgium",
+    "lng": 4.89771,
+    "accuracy": 15,
+    "fixTime": 25,
+    "source": "gps",
+    "insertTime": "2021-06-26T09:59:00+0000",
+    "thirdPartyId": "1-QCO-925",
+    "sigfoxDeviceId": "3D16F3",
+    "serial": "RWYGL9",
+    "name": 506,
+    "state": "START",
+    "id": 422448192,
+    "time": "2021-06-26T09:55:00+0000",
+    "lat": 51.14701,
+    "seqNbr": 29
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Centrum-Zuid, 3530, Houthalen-Helchteren, Belgium",
+    "lng": 5.36349,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:23:14+0000",
+    "thirdPartyId": "Q-AJV-194",
+    "sigfoxDeviceId": "E210FD",
+    "serial": "AUCVFW",
+    "name": 1189,
+    "state": "STOP",
+    "id": 421879564,
+    "time": "2021-06-25T09:12:00+0000",
+    "lat": 51.01593,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

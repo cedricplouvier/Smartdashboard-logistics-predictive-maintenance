@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue de Tibêtême, 6800, Libramont-Chevigny, Belgium",
+    "lng": 5.35298,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:22:12+0000",
+    "thirdPartyId": "1-QCQ-952",
+    "sigfoxDeviceId": "142EC91",
+    "serial": "XK29FN",
+    "name": 411,
+    "state": "STOP",
+    "id": 421772186,
+    "time": "2021-06-25T06:16:00+0000",
+    "lat": 49.92256,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "insertTime": "2021-06-25T19:24:12+0000",
+    "thirdPartyId": "QIC-270",
+    "sigfoxDeviceId": "193CC0",
+    "serial": "VKKLVR",
+    "name": 430,
+    "state": "START",
+    "source": "gps",
+    "id": 422188899,
+    "time": "2021-06-25T07:33:00+0000",
+    "seqNbr": 31
+  },
+  "dataType": "activity"
+}

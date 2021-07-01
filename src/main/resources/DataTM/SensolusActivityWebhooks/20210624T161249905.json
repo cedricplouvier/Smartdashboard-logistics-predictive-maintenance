@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Grote Baan, 115, 3130, Begijnendijk, Belgium",
+    "lng": 4.79648,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T16:12:48+0000",
+    "thirdPartyId": "Q-AJV-177",
+    "sigfoxDeviceId": "E202DB",
+    "serial": "N2U6ZF",
+    "name": 915,
+    "state": "STOP",
+    "id": 421488432,
+    "time": "2021-06-24T16:02:00+0000",
+    "lat": 50.9961,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

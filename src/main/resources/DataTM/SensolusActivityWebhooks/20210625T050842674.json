@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Schransstraat, 16, 3272, Scherpenheuvel-Zichem, Belgium",
+    "lng": 4.92989,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:08:42+0000",
+    "thirdPartyId": "Q-ALE-838",
+    "sigfoxDeviceId": "E29B26",
+    "serial": "PKPXQY",
+    "name": 861,
+    "state": "START",
+    "id": 421735244,
+    "time": "2021-06-25T04:34:00+0000",
+    "lat": 50.9749,
+    "seqNbr": 14
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Aarschotsesteenweg, 3012, Leuven, Belgium",
+    "lng": 4.70832,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:47:14+0000",
+    "thirdPartyId": "QJM-424",
+    "sigfoxDeviceId": "E1B286",
+    "serial": "V7PTAT",
+    "name": 431,
+    "state": "STOP",
+    "id": 421726158,
+    "time": "2021-06-25T04:36:00+0000",
+    "lat": 50.89197,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

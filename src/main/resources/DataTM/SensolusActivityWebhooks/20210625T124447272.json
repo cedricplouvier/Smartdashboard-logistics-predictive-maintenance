@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E19, 2800, Mechelen, Belgium",
+    "lng": 4.44731,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:44:46+0000",
+    "thirdPartyId": "QBE-307",
+    "sigfoxDeviceId": "142EA62",
+    "serial": "3J9MT7",
+    "name": 305,
+    "state": "ON_THE_MOVE",
+    "id": 421997634,
+    "time": "2021-06-25T12:39:00+0000",
+    "lat": 51.02198,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

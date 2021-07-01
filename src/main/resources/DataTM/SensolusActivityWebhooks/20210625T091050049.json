@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue aux Fleurs - Bloemenstraat, 39, 1000, City of Brussels, Belgium",
+    "lng": 4.35356,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:10:46+0000",
+    "thirdPartyId": "1-QDD-085",
+    "sigfoxDeviceId": "E18097",
+    "serial": "LNGYEX",
+    "name": 120,
+    "state": "START",
+    "id": 421871747,
+    "time": "2021-06-25T09:09:00+0000",
+    "lat": 50.85391,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

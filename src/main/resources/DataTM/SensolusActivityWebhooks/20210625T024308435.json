@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "R16, 2500, Lier, Belgium",
+    "lng": 4.58402,
+    "accuracy": 10,
+    "fixTime": 31,
+    "source": "gps",
+    "insertTime": "2021-06-25T02:43:07+0000",
+    "thirdPartyId": "Q-ACJ-013",
+    "sigfoxDeviceId": "22578B",
+    "serial": "QWN1AU",
+    "name": 468,
+    "state": "START",
+    "id": 421689345,
+    "time": "2021-06-25T02:41:00+0000",
+    "lat": 51.12436,
+    "seqNbr": 42
+  },
+  "dataType": "activity"
+}

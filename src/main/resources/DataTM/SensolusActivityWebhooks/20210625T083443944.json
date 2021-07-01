@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Nijverheidsstraat, 13, 2400, Mol, Belgium",
+    "lng": 5.09889,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:34:42+0000",
+    "thirdPartyId": "Q-AGC-888",
+    "sigfoxDeviceId": "E204F7",
+    "serial": "XHGWP3",
+    "name": 752,
+    "state": "ON_THE_MOVE",
+    "id": 421849265,
+    "time": "2021-06-25T08:33:00+0000",
+    "lat": 51.18968,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

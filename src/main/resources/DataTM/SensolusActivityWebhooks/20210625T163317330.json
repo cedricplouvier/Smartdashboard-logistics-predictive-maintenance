@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vroente, 10, 2310, Rijkevorsel, Belgium",
+    "lng": 4.74987,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:33:16+0000",
+    "thirdPartyId": "Q-ALY-433",
+    "sigfoxDeviceId": "142E47B",
+    "serial": "QHDZM9",
+    "name": 1199,
+    "state": "STOP",
+    "id": 422121270,
+    "time": "2021-06-25T16:27:00+0000",
+    "lat": 51.33015,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

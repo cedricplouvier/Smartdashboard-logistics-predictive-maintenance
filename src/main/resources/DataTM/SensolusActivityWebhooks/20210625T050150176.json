@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Noorderlaan, 608, 2030, Antwerp, Belgium",
+    "lng": 4.38234,
+    "accuracy": 20,
+    "fixTime": 40,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:01:48+0000",
+    "thirdPartyId": "1-QCO-925",
+    "sigfoxDeviceId": "3D16F3",
+    "serial": "RWYGL9",
+    "name": 506,
+    "state": "STOP",
+    "id": 421732234,
+    "time": "2021-06-25T04:50:00+0000",
+    "lat": 51.26838,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

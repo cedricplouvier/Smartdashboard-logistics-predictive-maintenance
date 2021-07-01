@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Jacobsveldweg, 12,12A, 2160, Wommelgem, Belgium",
+    "lng": 4.53343,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:29:06+0000",
+    "thirdPartyId": "Q-AGC-888",
+    "sigfoxDeviceId": "E204F7",
+    "serial": "XHGWP3",
+    "name": 752,
+    "state": "START",
+    "id": 422091431,
+    "time": "2021-06-25T15:27:00+0000",
+    "lat": 51.2127,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

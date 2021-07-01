@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Medialaan, 1800, Vilvoorde, Belgium",
+    "lng": 4.40148,
+    "accuracy": 20,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-24T16:14:16+0000",
+    "thirdPartyId": "Q-AHK-097",
+    "sigfoxDeviceId": "E19FA1",
+    "serial": "QMKQ79",
+    "name": 1181,
+    "state": "START",
+    "id": 421489055,
+    "time": "2021-06-24T15:23:00+0000",
+    "lat": 50.91421,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

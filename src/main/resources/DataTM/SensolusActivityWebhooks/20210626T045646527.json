@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Aarschotsesteenweg, 3390, Tielt-Winge, Belgium",
+    "lng": 4.85462,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T04:56:46+0000",
+    "thirdPartyId": "Q-AHK-097",
+    "sigfoxDeviceId": "E19FA1",
+    "serial": "QMKQ79",
+    "name": 1181,
+    "state": "START",
+    "id": 422338838,
+    "time": "2021-06-25T04:35:00+0000",
+    "lat": 50.92423,
+    "seqNbr": 7
+  },
+  "dataType": "activity"
+}

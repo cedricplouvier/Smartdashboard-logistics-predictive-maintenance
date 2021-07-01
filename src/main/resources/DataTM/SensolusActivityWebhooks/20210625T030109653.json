@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Lindendreef, 2290, Vorselaar, Belgium",
+    "lng": 4.77672,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:00:58+0000",
+    "thirdPartyId": "Q-ADU-521",
+    "sigfoxDeviceId": "142C154",
+    "serial": "266TUG",
+    "name": 1162,
+    "state": "START",
+    "id": 421693952,
+    "time": "2021-06-25T02:35:00+0000",
+    "lat": 51.20555,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

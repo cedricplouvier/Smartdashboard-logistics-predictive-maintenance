@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Wingerstraat, 3390, Tielt-Winge, Belgium",
+    "lng": 4.87804,
+    "accuracy": 20,
+    "fixTime": 40,
+    "source": "gps",
+    "insertTime": "2021-06-24T17:45:51+0000",
+    "thirdPartyId": "QIC-270",
+    "sigfoxDeviceId": "193CC0",
+    "serial": "VKKLVR",
+    "name": 430,
+    "state": "START",
+    "id": 421529757,
+    "time": "2021-06-24T05:27:00+0000",
+    "lat": 50.90892,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

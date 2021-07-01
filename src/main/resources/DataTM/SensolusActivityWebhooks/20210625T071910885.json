@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Roeselaarseweg, 8820, Torhout, Belgium",
+    "lng": 3.10781,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:05:04+0000",
+    "thirdPartyId": "QBE-307",
+    "sigfoxDeviceId": "142EA62",
+    "serial": "3J9MT7",
+    "name": 305,
+    "state": "ON_THE_MOVE",
+    "id": 421797892,
+    "time": "2021-06-25T07:02:00+0000",
+    "lat": 51.03857,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

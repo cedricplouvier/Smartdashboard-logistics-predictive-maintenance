@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Ninovestraat, 18, 9320, Haaltert, Belgium",
+    "lng": 4.02708,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T00:44:46+0000",
+    "thirdPartyId": "Q-ADH-605",
+    "sigfoxDeviceId": "142DCA0",
+    "serial": "DTKEFF",
+    "name": 254,
+    "state": "START",
+    "id": 421658769,
+    "time": "2021-06-24T10:06:00+0000",
+    "lat": 50.90812,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

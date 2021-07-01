@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Industrieweg, 3583, Beringen, Belgium",
+    "lng": 5.17595,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:11:40+0000",
+    "thirdPartyId": "Q-AAU-840",
+    "sigfoxDeviceId": "142EA59",
+    "serial": "C12M9G",
+    "name": 854,
+    "state": "START",
+    "id": 421909349,
+    "time": "2021-06-25T09:56:00+0000",
+    "lat": 51.06954,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Langedreef, 9810, Nazareth, Belgium",
+    "lng": 3.61975,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:38:08+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "STOP",
+    "id": 421993606,
+    "time": "2021-06-25T12:32:00+0000",
+    "lat": 50.97483,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

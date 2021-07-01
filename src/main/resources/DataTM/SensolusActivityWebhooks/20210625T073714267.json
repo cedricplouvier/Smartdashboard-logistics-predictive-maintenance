@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Avenue Léon Champagne, 1480, Tubize, Belgium",
+    "lng": 4.17421,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:37:10+0000",
+    "thirdPartyId": "1-QCZ-412",
+    "sigfoxDeviceId": "E1FFE2",
+    "serial": "9MDP2N",
+    "name": 1111,
+    "state": "STOP",
+    "id": 421815493,
+    "time": "2021-06-25T07:26:00+0000",
+    "lat": 50.70819,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

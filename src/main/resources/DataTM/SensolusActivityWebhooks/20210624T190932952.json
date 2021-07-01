@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rollekens, 2, 2322, Hoogstraten, Belgium",
+    "lng": 4.763,
+    "accuracy": 15,
+    "fixTime": 42,
+    "source": "gps",
+    "insertTime": "2021-06-24T19:09:32+0000",
+    "thirdPartyId": "QJY-046",
+    "sigfoxDeviceId": 225797,
+    "serial": "Q7AU6R",
+    "name": 162,
+    "state": "STOP",
+    "id": 421562318,
+    "time": "2021-06-24T18:58:00+0000",
+    "lat": 51.42992,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Dijledreef, 3012, Leuven, Belgium",
+    "lng": 4.70767,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:36:38+0000",
+    "thirdPartyId": "Q-ALZ-009",
+    "sigfoxDeviceId": 1.42E+443,
+    "serial": "1E7FN2",
+    "name": 4415,
+    "state": "STOP",
+    "id": 421957166,
+    "time": "2021-06-25T11:30:00+0000",
+    "lat": 50.88978,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

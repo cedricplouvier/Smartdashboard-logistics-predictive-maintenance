@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Egide Walschaertsstraat, 19, 2800, Mechelen, Belgium",
+    "lng": 4.46167,
+    "accuracy": 15,
+    "fixTime": 27,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:53:26+0000",
+    "thirdPartyId": "Q-AGS-013",
+    "sigfoxDeviceId": "2FBC73",
+    "serial": "1LE7LG",
+    "name": 309,
+    "state": "START",
+    "id": 421898307,
+    "time": "2021-06-25T09:46:00+0000",
+    "lat": 51.00625,
+    "seqNbr": 23
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "71, Nusterweg, Noord, Sittard, Sittard-Geleen, Limburg, Netherlands, 6136KT, The Netherlands",
+    "lng": 5.8662,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:01:22+0000",
+    "thirdPartyId": "1-QYB-572",
+    "sigfoxDeviceId": "E20C0B",
+    "serial": "44TM2Z",
+    "name": 515,
+    "state": "STOP",
+    "id": 421829127,
+    "time": "2021-06-25T07:50:00+0000",
+    "lat": 51.01638,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

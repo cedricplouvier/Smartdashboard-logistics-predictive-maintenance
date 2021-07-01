@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kanaaldijk-Zuid, 't Zand, Son en Breugel, North Brabant, Netherlands, 5692HK, The Netherlands",
+    "lng": 5.46804,
+    "accuracy": 20,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:19:24+0000",
+    "thirdPartyId": "Q-AFL-035",
+    "sigfoxDeviceId": "E1FF81",
+    "serial": "UE7WVR",
+    "name": 436,
+    "state": "STOP",
+    "id": 421805716,
+    "time": "2021-06-25T07:08:00+0000",
+    "lat": 51.504,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

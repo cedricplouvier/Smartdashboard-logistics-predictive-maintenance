@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Steenbakkersdam, 42, 2340, Beerse, Belgium",
+    "lng": 4.88593,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:26:06+0000",
+    "thirdPartyId": "Q-AJY-524",
+    "sigfoxDeviceId": "E20F9D",
+    "serial": "EQD7M2",
+    "name": 917,
+    "state": "START",
+    "id": 422057815,
+    "time": "2021-06-25T14:25:00+0000",
+    "lat": 51.33184,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

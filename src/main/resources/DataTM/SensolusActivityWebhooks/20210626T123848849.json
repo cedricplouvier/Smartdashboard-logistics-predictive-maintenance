@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "R24, 1402, Nivelles, Belgium",
+    "lng": 4.36018,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T12:38:48+0000",
+    "thirdPartyId": "1-QAQ-390",
+    "sigfoxDeviceId": 1.42E99,
+    "serial": "UFRFZC",
+    "name": 315,
+    "state": "STOP",
+    "id": 422507487,
+    "time": "2021-06-26T12:32:00+0000",
+    "lat": 50.58521,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

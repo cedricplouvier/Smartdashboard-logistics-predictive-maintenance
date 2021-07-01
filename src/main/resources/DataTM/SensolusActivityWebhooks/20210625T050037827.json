@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "9050, Ghent, Belgium",
+    "lng": 3.74129,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:00:10+0000",
+    "thirdPartyId": "Q-AJD-266",
+    "sigfoxDeviceId": "E181DE",
+    "serial": "KAZG1P",
+    "name": 105,
+    "state": "STOP",
+    "id": 421731507,
+    "time": "2021-06-25T04:49:00+0000",
+    "lat": 51.04085,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

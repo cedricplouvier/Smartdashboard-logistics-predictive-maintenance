@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Tildonksesteenweg, 93, 3020, Herent, Belgium",
+    "lng": 4.66512,
+    "accuracy": 15,
+    "fixTime": 29,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:58:48+0000",
+    "thirdPartyId": "Q-ACJ-013",
+    "sigfoxDeviceId": "22578B",
+    "serial": "QWN1AU",
+    "name": 468,
+    "state": "START",
+    "id": 421935682,
+    "time": "2021-06-25T10:57:00+0000",
+    "lat": 50.91353,
+    "seqNbr": 53
+  },
+  "dataType": "activity"
+}

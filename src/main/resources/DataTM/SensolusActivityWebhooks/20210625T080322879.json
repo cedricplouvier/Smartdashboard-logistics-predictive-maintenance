@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Oude Spoorbaan, 3500, Hasselt, Belgium",
+    "lng": 5.32328,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:03:22+0000",
+    "thirdPartyId": "Q-AJV-194",
+    "sigfoxDeviceId": "E210FD",
+    "serial": "AUCVFW",
+    "name": 1189,
+    "state": "STOP",
+    "id": 421830362,
+    "time": "2021-06-25T07:51:00+0000",
+    "lat": 50.94371,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

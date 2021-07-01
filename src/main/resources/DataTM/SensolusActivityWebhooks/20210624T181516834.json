@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Mechelsesteenweg, 3020, Herent, Belgium",
+    "lng": 4.67799,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-24T18:15:16+0000",
+    "thirdPartyId": "1-QCQ-952",
+    "sigfoxDeviceId": "142EC91",
+    "serial": "XK29FN",
+    "name": 411,
+    "state": "STOP",
+    "id": 421541601,
+    "time": "2021-06-24T18:09:00+0000",
+    "lat": 50.90833,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

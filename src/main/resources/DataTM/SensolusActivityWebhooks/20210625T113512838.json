@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Sint-Janneke, 3,4,5,6, 2200, Herentals, Belgium",
+    "lng": 4.82874,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:35:12+0000",
+    "thirdPartyId": "Q-AEE-297",
+    "sigfoxDeviceId": "1430BE0",
+    "serial": "PKZ2E6",
+    "name": 101,
+    "state": "START",
+    "id": 421956357,
+    "time": "2021-06-24T11:40:00+0000",
+    "lat": 51.16713,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

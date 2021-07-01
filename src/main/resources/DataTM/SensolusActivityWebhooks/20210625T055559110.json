@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Maesbossen, 1, 9160, Lokeren, Belgium",
+    "lng": 3.99582,
+    "accuracy": 15,
+    "fixTime": 22,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:55:58+0000",
+    "thirdPartyId": "1-QAM-142",
+    "sigfoxDeviceId": "193C7B",
+    "serial": "TDA2JY",
+    "name": 179,
+    "state": "START",
+    "id": 421757829,
+    "time": "2021-06-25T05:54:00+0000",
+    "lat": 51.08274,
+    "seqNbr": 61
+  },
+  "dataType": "activity"
+}

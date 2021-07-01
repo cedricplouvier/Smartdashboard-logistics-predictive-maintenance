@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "3550, Heusden-Zolder, Belgium",
+    "lng": 5.33302,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:46:28+0000",
+    "thirdPartyId": "QDF-769",
+    "sigfoxDeviceId": "E205A1",
+    "serial": "EVUVN9",
+    "name": 414,
+    "state": "STOP",
+    "id": 422069346,
+    "time": "2021-06-25T14:35:00+0000",
+    "lat": 51.01239,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

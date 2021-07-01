@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hoogveld, 29, 9200, Dendermonde, Belgium",
+    "lng": 4.13905,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:57:36+0000",
+    "thirdPartyId": "Q-AAR-619",
+    "sigfoxDeviceId": "E17D49",
+    "serial": "WXYJ2X",
+    "name": 908,
+    "state": "ON_THE_MOVE",
+    "id": 422041075,
+    "time": "2021-06-25T13:54:00+0000",
+    "lat": 51.02991,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

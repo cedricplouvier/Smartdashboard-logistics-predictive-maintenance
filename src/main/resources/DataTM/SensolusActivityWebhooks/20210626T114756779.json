@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "N25, 1390, Grez-Doiceau, Belgium",
+    "lng": 4.66552,
+    "accuracy": 20,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-26T11:47:56+0000",
+    "thirdPartyId": "1-QAQ-390",
+    "sigfoxDeviceId": 1.42E99,
+    "serial": "UFRFZC",
+    "name": 315,
+    "state": "ON_THE_MOVE",
+    "id": 422489228,
+    "time": "2021-06-26T11:42:00+0000",
+    "lat": 50.73651,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

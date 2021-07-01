@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue de l'Abattoir, 6700, Arlon, Belgium",
+    "lng": 5.79932,
+    "accuracy": 10,
+    "fixTime": 43,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:16:10+0000",
+    "thirdPartyId": "Q-AFB-625",
+    "sigfoxDeviceId": "3D1439",
+    "serial": "TGTVV1",
+    "name": 492,
+    "state": "START",
+    "id": 421911850,
+    "time": "2021-06-25T10:12:00+0000",
+    "lat": 49.68707,
+    "seqNbr": 51
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue Charles Demeer - Charles Demeerstraat, 1020, City of Brussels, Belgium",
+    "lng": 4.34331,
+    "accuracy": 25,
+    "fixTime": 51,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:39:16+0000",
+    "thirdPartyId": "Q-AED-530",
+    "sigfoxDeviceId": "193C5B",
+    "serial": "H2LGM2",
+    "name": 4411,
+    "state": "STOP",
+    "id": 421994280,
+    "time": "2021-06-25T12:27:00+0000",
+    "lat": 50.87218,
+    "seqNbr": 60
+  },
+  "dataType": "activity"
+}

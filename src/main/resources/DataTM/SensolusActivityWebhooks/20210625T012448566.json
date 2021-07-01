@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Mieregemstraat, 165, 1785, Merchtem, Belgium",
+    "lng": 4.226,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T01:24:47+0000",
+    "thirdPartyId": "Q-ADH-605",
+    "sigfoxDeviceId": "142DCA0",
+    "serial": "DTKEFF",
+    "name": 254,
+    "state": "START",
+    "id": 421669011,
+    "time": "2021-06-24T08:02:00+0000",
+    "lat": 50.94778,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

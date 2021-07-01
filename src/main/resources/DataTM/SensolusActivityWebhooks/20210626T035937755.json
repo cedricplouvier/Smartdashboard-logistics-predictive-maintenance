@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Spoorweglei, 61, 2560, Nijlen, Belgium",
+    "lng": 4.67462,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-26T03:59:36+0000",
+    "thirdPartyId": "Q-ABL-161",
+    "sigfoxDeviceId": "E20D93",
+    "serial": "PLXKH9",
+    "name": 609,
+    "state": "START",
+    "id": 422325032,
+    "time": "2021-06-25T04:07:00+0000",
+    "lat": 51.15993,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

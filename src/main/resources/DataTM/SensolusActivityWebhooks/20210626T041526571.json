@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Aarschotseweg, 32, 2200, Herentals, Belgium",
+    "lng": 4.84671,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T04:15:26+0000",
+    "thirdPartyId": "Q-ADH-605",
+    "sigfoxDeviceId": "142DCA0",
+    "serial": "DTKEFF",
+    "name": 254,
+    "state": "ON_THE_MOVE",
+    "id": 422328457,
+    "time": "2021-06-25T14:10:00+0000",
+    "lat": 51.15897,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue de l'Industrie, 35, 1402, Nivelles, Belgium",
+    "lng": 4.35525,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:33:41+0000",
+    "thirdPartyId": "Q-ADJ-725",
+    "sigfoxDeviceId": "E1C32B",
+    "serial": "HWRULT",
+    "name": 1145,
+    "state": "STOP",
+    "id": 421921576,
+    "time": "2021-06-25T10:23:00+0000",
+    "lat": 50.58249,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Mechelsesteenweg, 69, 1910, Kampenhout, Belgium",
+    "lng": 4.58561,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:00:18+0000",
+    "thirdPartyId": "Q-ACX-480",
+    "sigfoxDeviceId": "E202D9",
+    "serial": "R7XPA2",
+    "name": 455,
+    "state": "START",
+    "id": 421760167,
+    "time": "2021-06-25T05:58:00+0000",
+    "lat": 50.95905,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

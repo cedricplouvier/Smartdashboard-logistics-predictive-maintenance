@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Leenstraat, 9870, Zulte, Belgium",
+    "lng": 3.46456,
+    "accuracy": 10,
+    "fixTime": 33,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:05:04+0000",
+    "thirdPartyId": "Q-AFK-068",
+    "sigfoxDeviceId": "3D1512",
+    "serial": "3D6XM7",
+    "name": 494,
+    "state": "STOP",
+    "id": 421905653,
+    "time": "2021-06-25T09:54:00+0000",
+    "lat": 50.90507,
+    "seqNbr": 27
+  },
+  "dataType": "activity"
+}

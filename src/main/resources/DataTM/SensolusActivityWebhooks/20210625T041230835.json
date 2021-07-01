@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Durasweg, 3440, Zoutleeuw, Belgium",
+    "lng": 5.12705,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:12:30+0000",
+    "thirdPartyId": "Q-AEZ-168",
+    "sigfoxDeviceId": "E20C1C",
+    "serial": "L4CVPR",
+    "name": 913,
+    "state": "START",
+    "id": 421713853,
+    "time": "2021-06-25T03:18:00+0000",
+    "lat": 50.85619,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

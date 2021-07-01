@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Oosteneinde, 2330, Merksplas, Belgium",
+    "lng": 4.87142,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:42:44+0000",
+    "thirdPartyId": "Q-ACX-332",
+    "sigfoxDeviceId": "142E6E8",
+    "serial": "PGJNP3",
+    "name": 910,
+    "state": "STOP",
+    "id": 421751302,
+    "time": "2021-06-25T05:36:00+0000",
+    "lat": 51.33829,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

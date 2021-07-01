@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hoefstraatje, 9200, Dendermonde, Belgium",
+    "lng": 4.16057,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:38:12+0000",
+    "thirdPartyId": "Q-ALY-433",
+    "sigfoxDeviceId": "142E47B",
+    "serial": "QHDZM9",
+    "name": 1199,
+    "state": "STOP",
+    "id": 421816065,
+    "time": "2021-06-25T07:32:00+0000",
+    "lat": 51.04735,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

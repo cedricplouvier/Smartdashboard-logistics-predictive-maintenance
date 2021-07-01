@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Helststraat, 2630, Aartselaar, Belgium",
+    "lng": 4.37506,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:36:40+0000",
+    "thirdPartyId": "Q-AJZ-232",
+    "sigfoxDeviceId": "E208B3",
+    "serial": "7EQ4MD",
+    "name": 250,
+    "state": "START",
+    "id": 421887935,
+    "time": "2021-06-25T09:35:00+0000",
+    "lat": 51.13807,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

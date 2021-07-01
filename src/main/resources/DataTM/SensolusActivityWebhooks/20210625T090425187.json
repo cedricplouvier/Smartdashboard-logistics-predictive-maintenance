@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Noorderlaan, 171, 2030, Antwerp, Belgium",
+    "lng": 4.37659,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:04:24+0000",
+    "thirdPartyId": "Q-AAR-619",
+    "sigfoxDeviceId": "E17D49",
+    "serial": "WXYJ2X",
+    "name": 908,
+    "state": "ON_THE_MOVE",
+    "id": 421867768,
+    "time": "2021-06-25T09:01:00+0000",
+    "lat": 51.26769,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Melkerijstraat, 3110, Rotselaar, Belgium",
+    "lng": 4.7276,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T23:15:02+0000",
+    "thirdPartyId": "1-QAQ-390",
+    "sigfoxDeviceId": 1.42E99,
+    "serial": "UFRFZC",
+    "name": 315,
+    "state": "START",
+    "id": 422255345,
+    "time": "2021-06-25T23:13:00+0000",
+    "lat": 50.94112,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

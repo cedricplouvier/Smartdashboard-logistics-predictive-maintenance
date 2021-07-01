@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Venecolaan, 19, 9880, Aalter, Belgium",
+    "lng": 3.4445,
+    "accuracy": 15,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:17:40+0000",
+    "thirdPartyId": "1-QDM-200",
+    "sigfoxDeviceId": "21A95F",
+    "serial": "EXGQFM",
+    "name": 403,
+    "state": "START",
+    "id": 421946065,
+    "time": "2021-06-25T11:15:00+0000",
+    "lat": 51.10684,
+    "seqNbr": 59
+  },
+  "dataType": "activity"
+}

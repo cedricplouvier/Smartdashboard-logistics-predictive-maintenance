@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Heegstraat, 43, 2480, Dessel, Belgium",
+    "lng": 5.12158,
+    "accuracy": 15,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:53:40+0000",
+    "thirdPartyId": "Q-AFJ-297",
+    "sigfoxDeviceId": "21A594",
+    "serial": "ZYV13Y",
+    "name": 1172,
+    "state": "STOP",
+    "id": 422103571,
+    "time": "2021-06-25T15:43:00+0000",
+    "lat": 51.247,
+    "seqNbr": 32
+  },
+  "dataType": "activity"
+}

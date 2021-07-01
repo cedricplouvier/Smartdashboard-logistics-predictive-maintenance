@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Weversstraat, 1840, Londerzeel, Belgium",
+    "lng": 4.32164,
+    "accuracy": 10,
+    "fixTime": 21,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:25:33+0000",
+    "thirdPartyId": "1-QCO-925",
+    "sigfoxDeviceId": "3D16F3",
+    "serial": "RWYGL9",
+    "name": 506,
+    "state": "START",
+    "id": 422057473,
+    "time": "2021-06-25T14:24:00+0000",
+    "lat": 51.01488,
+    "seqNbr": 24
+  },
+  "dataType": "activity"
+}

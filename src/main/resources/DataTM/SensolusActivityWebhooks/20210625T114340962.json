@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Maasboulevard, Wessem, Maasgouw, Limburg, Netherlands, 6019BA, The Netherlands",
+    "lng": 5.88433,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:43:39+0000",
+    "thirdPartyId": "Q-AFL-035",
+    "sigfoxDeviceId": "E1FF81",
+    "serial": "UE7WVR",
+    "name": 436,
+    "state": "STOP",
+    "id": 421961222,
+    "time": "2021-06-25T11:33:00+0000",
+    "lat": 51.1588,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

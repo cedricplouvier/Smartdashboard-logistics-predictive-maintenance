@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vaatjesstraat, 36, 2580, Putte, Belgium",
+    "lng": 4.61154,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:59:02+0000",
+    "thirdPartyId": "Q-ALF-997",
+    "sigfoxDeviceId": 1.42E45,
+    "serial": "GHLPH7",
+    "name": 1197,
+    "state": "ON_THE_MOVE",
+    "id": 421759448,
+    "time": "2021-06-25T05:55:00+0000",
+    "lat": 51.04169,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

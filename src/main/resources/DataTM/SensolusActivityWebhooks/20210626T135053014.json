@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "31, Munnikhofsestraat, Deest, Druten, Gelderland, Netherlands, 6653AB, The Netherlands",
+    "lng": 5.67392,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T13:50:52+0000",
+    "thirdPartyId": "Q-AJD-364",
+    "sigfoxDeviceId": "E1BA52",
+    "serial": "ENCG1H",
+    "name": 449,
+    "state": "START",
+    "id": 422532659,
+    "time": "2021-06-25T13:48:00+0000",
+    "lat": 51.8902,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

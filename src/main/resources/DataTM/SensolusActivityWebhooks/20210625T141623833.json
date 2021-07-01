@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Bistweg, 80, 2520, Ranst, Belgium",
+    "lng": 4.61877,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:16:22+0000",
+    "thirdPartyId": "Q-ALZ-008",
+    "sigfoxDeviceId": "142F09B",
+    "serial": "QUZEHY",
+    "name": 4416,
+    "state": "START",
+    "id": 422052233,
+    "time": "2021-06-25T14:15:00+0000",
+    "lat": 51.18803,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

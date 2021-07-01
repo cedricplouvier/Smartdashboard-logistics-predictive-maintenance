@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Populierenhof, 24, 2220, Heist-op-den-Berg, Belgium",
+    "lng": 4.72144,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:27:28+0000",
+    "thirdPartyId": "Q-ABL-161",
+    "sigfoxDeviceId": "E20D93",
+    "serial": "PLXKH9",
+    "name": 609,
+    "state": "START",
+    "id": 421810065,
+    "time": "2021-06-25T07:26:00+0000",
+    "lat": 51.07229,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

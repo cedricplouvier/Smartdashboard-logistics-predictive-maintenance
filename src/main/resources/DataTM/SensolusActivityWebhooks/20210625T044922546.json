@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Bergstraat, 39, 3945, Ham, Belgium",
+    "lng": 5.13609,
+    "accuracy": 20,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:49:21+0000",
+    "thirdPartyId": "1-QCR-620",
+    "sigfoxDeviceId": 1431369,
+    "serial": "2MPNUT",
+    "name": 1112,
+    "state": "ON_THE_MOVE",
+    "id": 421726946,
+    "time": "2021-06-25T04:31:00+0000",
+    "lat": 51.07991,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

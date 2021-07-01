@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Avenue Henri Zaman, 1480, Tubize, Belgium",
+    "lng": 4.17305,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:49:28+0000",
+    "thirdPartyId": "1-QCZ-412",
+    "sigfoxDeviceId": "E1FFE2",
+    "serial": "9MDP2N",
+    "name": 1111,
+    "state": "STOP",
+    "id": 421787853,
+    "time": "2021-06-25T06:36:00+0000",
+    "lat": 50.70846,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

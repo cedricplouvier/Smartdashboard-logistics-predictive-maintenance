@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Meistraat, 5, 2221, Heist-op-den-Berg, Belgium",
+    "lng": 4.74056,
+    "accuracy": 10,
+    "fixTime": 23,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:48:22+0000",
+    "thirdPartyId": "1-QAX-451",
+    "sigfoxDeviceId": "3D2135",
+    "serial": "9P14JD",
+    "name": 952,
+    "state": "STOP",
+    "id": 422070392,
+    "time": "2021-06-25T14:37:00+0000",
+    "lat": 51.02889,
+    "seqNbr": 43
+  },
+  "dataType": "activity"
+}

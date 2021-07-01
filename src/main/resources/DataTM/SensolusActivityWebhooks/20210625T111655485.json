@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Gerselarendries, 32, 1980, Grimbergen, Belgium",
+    "lng": 4.41103,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:16:52+0000",
+    "thirdPartyId": "1-QEQ-957",
+    "sigfoxDeviceId": "142BF6C",
+    "serial": "7YR77E",
+    "name": 955,
+    "state": "STOP",
+    "id": 421945630,
+    "time": "2021-06-25T11:06:00+0000",
+    "lat": 50.95671,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

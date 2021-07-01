@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hagelberg, 8, 2250, Olen, Belgium",
+    "lng": 4.90883,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:23:55+0000",
+    "thirdPartyId": "1-QAR-891",
+    "sigfoxDeviceId": "E1AEE1",
+    "serial": "1VZXU7",
+    "name": 313,
+    "state": "START",
+    "id": 421742493,
+    "time": "2021-06-25T05:19:00+0000",
+    "lat": 51.14857,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Dekenijstraat, 2, 3071, Kortenberg, Belgium",
+    "lng": 4.55857,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:04:06+0000",
+    "thirdPartyId": "1-QDD-790",
+    "sigfoxDeviceId": 1.42E+439,
+    "serial": "9ZADUY",
+    "name": 139,
+    "state": "STOP",
+    "id": 421733220,
+    "time": "2021-06-25T04:57:00+0000",
+    "lat": 50.9033,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

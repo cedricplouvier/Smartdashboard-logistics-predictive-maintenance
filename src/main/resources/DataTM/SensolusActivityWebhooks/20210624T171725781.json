@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Chaussée de Louvain, 1320, Beauvechain, Belgium",
+    "lng": 4.71059,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-24T17:06:30+0000",
+    "thirdPartyId": "1-QAQ-390",
+    "sigfoxDeviceId": 1.42E99,
+    "serial": "UFRFZC",
+    "name": 315,
+    "state": "ON_THE_MOVE",
+    "id": 421513370,
+    "time": "2021-06-24T16:08:00+0000",
+    "lat": 50.79334,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

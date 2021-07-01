@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Tremelobaan, 113, 3140, Keerbergen, Belgium",
+    "lng": 4.66095,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:31:36+0000",
+    "thirdPartyId": "Q-ABL-161",
+    "sigfoxDeviceId": "E20D93",
+    "serial": "PLXKH9",
+    "name": 609,
+    "state": "ON_THE_MOVE",
+    "id": 421920469,
+    "time": "2021-06-25T10:26:00+0000",
+    "lat": 50.99732,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

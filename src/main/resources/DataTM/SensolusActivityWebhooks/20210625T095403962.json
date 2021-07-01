@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Westvaartdijk, 2830, Willebroek, Belgium",
+    "lng": 4.3651,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:54:02+0000",
+    "thirdPartyId": "Q-AAJ-484",
+    "sigfoxDeviceId": "E204BC",
+    "serial": "VE3MDD",
+    "name": 304,
+    "state": "STOP",
+    "id": 421898669,
+    "time": "2021-06-25T09:43:00+0000",
+    "lat": 51.07688,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "A54, 6238, Pont-à-Celles, Belgium",
+    "lng": 4.41756,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T20:35:26+0000",
+    "thirdPartyId": "QBE-307",
+    "sigfoxDeviceId": "142EA62",
+    "serial": "3J9MT7",
+    "name": 305,
+    "state": "ON_THE_MOVE",
+    "id": 421590255,
+    "time": "2021-06-24T20:23:00+0000",
+    "lat": 50.4964,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

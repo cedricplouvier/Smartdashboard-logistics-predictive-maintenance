@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Lispersteenweg, 437, 2500, Lier, Belgium",
+    "lng": 4.57677,
+    "accuracy": 15,
+    "fixTime": 29,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:21:00+0000",
+    "thirdPartyId": "1-QEV-838",
+    "sigfoxDeviceId": "3D23BB",
+    "serial": "9G4U22",
+    "name": 115,
+    "state": "START",
+    "id": 421699147,
+    "time": "2021-06-25T02:48:00+0000",
+    "lat": 51.14932,
+    "seqNbr": 31
+  },
+  "dataType": "activity"
+}

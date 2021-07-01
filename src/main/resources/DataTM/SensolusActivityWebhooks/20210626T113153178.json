@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Gevaertlaan, 9, 2260, Westerlo, Belgium",
+    "lng": 4.86919,
+    "accuracy": 15,
+    "fixTime": 41,
+    "source": "gps",
+    "insertTime": "2021-06-26T11:31:38+0000",
+    "thirdPartyId": "Q-AHB-390",
+    "sigfoxDeviceId": "21A97B",
+    "serial": "GTQPJP",
+    "name": 467,
+    "state": "START",
+    "id": 422483394,
+    "time": "2021-06-26T11:09:00+0000",
+    "lat": 51.08733,
+    "seqNbr": 47
+  },
+  "dataType": "activity"
+}

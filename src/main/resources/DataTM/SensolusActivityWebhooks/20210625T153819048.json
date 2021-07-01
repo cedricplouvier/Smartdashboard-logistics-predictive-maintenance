@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kiezel, 300, 2450, Meerhout, Belgium",
+    "lng": 5.0517,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:38:17+0000",
+    "thirdPartyId": "Q-ACX-332",
+    "sigfoxDeviceId": "142E6E8",
+    "serial": "PGJNP3",
+    "name": 910,
+    "state": "ON_THE_MOVE",
+    "id": 422096283,
+    "time": "2021-06-25T09:33:00+0000",
+    "lat": 51.10317,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

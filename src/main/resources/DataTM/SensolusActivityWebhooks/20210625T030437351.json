@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Borgstad, 2440, Geel, Belgium",
+    "lng": 4.99914,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:04:36+0000",
+    "thirdPartyId": "Q-ADN-819",
+    "sigfoxDeviceId": "E1A42B",
+    "serial": "W6Y3JD",
+    "name": 458,
+    "state": "START",
+    "id": 421694954,
+    "time": "2021-06-25T03:03:00+0000",
+    "lat": 51.15493,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

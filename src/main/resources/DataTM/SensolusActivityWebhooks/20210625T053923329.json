@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Schoebroekstraat, 34-36, 3583, Beringen, Belgium",
+    "lng": 5.17121,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:39:22+0000",
+    "thirdPartyId": "Q-AHK-097",
+    "sigfoxDeviceId": "E19FA1",
+    "serial": "QMKQ79",
+    "name": 1181,
+    "state": "STOP",
+    "id": 421749806,
+    "time": "2021-06-25T05:28:00+0000",
+    "lat": 51.05506,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

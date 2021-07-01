@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "KMO-zone Molenheide, 4111-4113, 3520, Zonhoven, Belgium",
+    "lng": 5.42707,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:01:48+0000",
+    "thirdPartyId": "1-QYB-572",
+    "sigfoxDeviceId": "E20C0B",
+    "serial": "44TM2Z",
+    "name": 515,
+    "state": "STOP",
+    "id": 421937340,
+    "time": "2021-06-25T10:51:00+0000",
+    "lat": 50.98305,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

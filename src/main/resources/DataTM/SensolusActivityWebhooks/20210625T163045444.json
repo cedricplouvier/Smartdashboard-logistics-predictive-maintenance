@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Bolder, Holten, Rijssen-Holten, Overijssel, Netherlands, The Netherlands",
+    "lng": 6.43347,
+    "accuracy": 5,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T16:30:44+0000",
+    "thirdPartyId": "QDF-769",
+    "sigfoxDeviceId": "E205A1",
+    "serial": "EVUVN9",
+    "name": 414,
+    "state": "START",
+    "id": 422120246,
+    "time": "2021-06-24T16:19:00+0000",
+    "lat": 52.25317,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

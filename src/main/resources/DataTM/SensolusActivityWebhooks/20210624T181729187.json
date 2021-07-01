@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Haandorpweg, 9130, Beveren, Belgium",
+    "lng": 4.22134,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-24T18:17:27+0000",
+    "thirdPartyId": "1-QDC-582",
+    "sigfoxDeviceId": 1.42E+928,
+    "serial": "2MJ3CF",
+    "name": 1115,
+    "state": "START",
+    "id": 421542376,
+    "time": "2021-06-24T06:05:00+0000",
+    "lat": 51.26619,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

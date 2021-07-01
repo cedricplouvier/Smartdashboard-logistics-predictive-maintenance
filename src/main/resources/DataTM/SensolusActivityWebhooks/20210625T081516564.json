@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vrijgoed, 15, 2400, Mol, Belgium",
+    "lng": 5.22302,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:15:14+0000",
+    "thirdPartyId": "Q-AHB-387",
+    "sigfoxDeviceId": "E1BCCB",
+    "serial": "KAM11G",
+    "name": 470,
+    "state": "START",
+    "id": 421837355,
+    "time": "2021-06-24T08:19:00+0000",
+    "lat": 51.186,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

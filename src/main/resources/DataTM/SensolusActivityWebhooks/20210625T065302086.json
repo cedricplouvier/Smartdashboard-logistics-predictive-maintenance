@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Mimosalaan, 1770, Liedekerke, Belgium",
+    "lng": 4.10301,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:53:00+0000",
+    "thirdPartyId": "Q-ADN-819",
+    "sigfoxDeviceId": "E1A42B",
+    "serial": "W6Y3JD",
+    "name": 458,
+    "state": "STOP",
+    "id": 421789772,
+    "time": "2021-06-25T06:42:00+0000",
+    "lat": 50.8762,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

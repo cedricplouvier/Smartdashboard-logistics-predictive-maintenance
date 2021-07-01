@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Staatsbaan, 328, 3210, Lubbeek, Belgium",
+    "lng": 4.84333,
+    "accuracy": 10,
+    "fixTime": 38,
+    "source": "gps",
+    "insertTime": "2021-06-24T20:22:54+0000",
+    "thirdPartyId": "1-QEV-838",
+    "sigfoxDeviceId": "3D23BB",
+    "serial": "9G4U22",
+    "name": 115,
+    "state": "STOP",
+    "id": 421586640,
+    "time": "2021-06-24T07:58:00+0000",
+    "lat": 50.90029,
+    "seqNbr": 24
+  },
+  "dataType": "activity"
+}

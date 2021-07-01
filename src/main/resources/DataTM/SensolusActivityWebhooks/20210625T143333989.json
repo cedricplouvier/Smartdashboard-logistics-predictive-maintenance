@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Oostmalsesteenweg, 192, 2310, Rijkevorsel, Belgium",
+    "lng": 4.74713,
+    "accuracy": 15,
+    "fixTime": 45,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:33:32+0000",
+    "thirdPartyId": "1-QBA-016",
+    "sigfoxDeviceId": "21ACEF",
+    "serial": "UENE79",
+    "name": 186,
+    "state": "START",
+    "id": 422062163,
+    "time": "2021-06-25T14:32:00+0000",
+    "lat": 51.33191,
+    "seqNbr": 16
+  },
+  "dataType": "activity"
+}

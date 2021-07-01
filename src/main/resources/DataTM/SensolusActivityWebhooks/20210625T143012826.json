@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Assesteenweg, 430, 1741, Ternat, Belgium",
+    "lng": 4.14838,
+    "accuracy": 15,
+    "fixTime": 38,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:30:11+0000",
+    "thirdPartyId": "USU-824",
+    "sigfoxDeviceId": "193C4C",
+    "serial": "YLTNAA",
+    "name": 175,
+    "state": "START",
+    "id": 422060223,
+    "time": "2021-06-25T14:28:00+0000",
+    "lat": 50.84946,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

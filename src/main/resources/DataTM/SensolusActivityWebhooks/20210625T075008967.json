@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Avenue du Bois Williame, 5101, Namur, Belgium",
+    "lng": 4.89387,
+    "accuracy": 20,
+    "fixTime": 25,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:50:08+0000",
+    "thirdPartyId": "Q-AAY-355",
+    "sigfoxDeviceId": "3D2DFF",
+    "serial": "EX77EK",
+    "name": 170,
+    "state": "STOP",
+    "id": 421822699,
+    "time": "2021-06-25T07:39:00+0000",
+    "lat": 50.43965,
+    "seqNbr": 49
+  },
+  "dataType": "activity"
+}

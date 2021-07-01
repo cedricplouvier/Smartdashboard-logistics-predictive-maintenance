@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Eindhoutse Heide, 2, 2430, Laakdal, Belgium",
+    "lng": 5.01869,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:05:44+0000",
+    "thirdPartyId": "Q-AKE-455",
+    "sigfoxDeviceId": "E1860F",
+    "serial": "GN9NWE",
+    "name": 860,
+    "state": "ON_THE_MOVE",
+    "id": 421939588,
+    "time": "2021-06-25T11:04:00+0000",
+    "lat": 51.11431,
+    "seqNbr": 14
+  },
+  "dataType": "activity"
+}

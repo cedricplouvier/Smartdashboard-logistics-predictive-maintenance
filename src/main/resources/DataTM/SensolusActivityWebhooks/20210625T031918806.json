@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kriebekestraat, 3390, Tielt-Winge, Belgium",
+    "lng": 4.85541,
+    "accuracy": 20,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:19:18+0000",
+    "thirdPartyId": "Q-AHK-097",
+    "sigfoxDeviceId": "E19FA1",
+    "serial": "QMKQ79",
+    "name": 1181,
+    "state": "START",
+    "id": 421698674,
+    "time": "2021-06-24T03:01:00+0000",
+    "lat": 50.92376,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

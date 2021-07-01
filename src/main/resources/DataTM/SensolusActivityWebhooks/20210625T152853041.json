@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Voetweg 10, 3078, Kortenberg, Belgium",
+    "lng": 4.56583,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:28:50+0000",
+    "thirdPartyId": "1-QCQ-952",
+    "sigfoxDeviceId": "142EC91",
+    "serial": "XK29FN",
+    "name": 411,
+    "state": "ON_THE_MOVE",
+    "id": 422091315,
+    "time": "2021-06-25T12:56:00+0000",
+    "lat": 50.86668,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

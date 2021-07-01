@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Oudstrijdersstraat, 56A, 1600, Sint-Pieters-Leeuw, Belgium",
+    "lng": 4.29341,
+    "accuracy": 5,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-26T06:21:10+0000",
+    "thirdPartyId": "Q-AGG-037",
+    "sigfoxDeviceId": "142E94A",
+    "serial": "4JHX12",
+    "name": 1175,
+    "state": "START",
+    "id": 422363149,
+    "time": "2021-06-26T04:31:00+0000",
+    "lat": 50.80806,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

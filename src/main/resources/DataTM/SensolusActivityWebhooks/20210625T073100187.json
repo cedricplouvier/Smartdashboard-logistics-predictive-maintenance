@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "6040, Charleroi, Belgium",
+    "lng": 4.45776,
+    "accuracy": 20,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:30:54+0000",
+    "thirdPartyId": "Q-ADG-344",
+    "sigfoxDeviceId": "E20C22",
+    "serial": "AA2CN9",
+    "name": 252,
+    "state": "STOP",
+    "id": 421812046,
+    "time": "2021-06-25T07:20:00+0000",
+    "lat": 50.44824,
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

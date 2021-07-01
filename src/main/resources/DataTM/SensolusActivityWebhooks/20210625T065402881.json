@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "9140, Temse, Belgium",
+    "lng": 4.19425,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:54:02+0000",
+    "thirdPartyId": "QKU-620",
+    "sigfoxDeviceId": "3D1801",
+    "serial": "V171UY",
+    "name": 1160,
+    "state": "STOP",
+    "id": 421790389,
+    "time": "2021-06-25T06:42:00+0000",
+    "lat": 51.11232,
+    "seqNbr": 19
+  },
+  "dataType": "activity"
+}

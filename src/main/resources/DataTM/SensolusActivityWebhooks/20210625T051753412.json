@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kattendijkdok-Westkaai, 81, 2000, Antwerp, Belgium",
+    "lng": 4.40569,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:17:52+0000",
+    "thirdPartyId": "Q-ALY-444",
+    "sigfoxDeviceId": 1.42E+440,
+    "serial": "Y7Z1RW",
+    "name": 1204,
+    "state": "STOP",
+    "id": 421739599,
+    "time": "2021-06-25T05:11:00+0000",
+    "lat": 51.23424,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

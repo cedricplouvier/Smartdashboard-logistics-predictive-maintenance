@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Avenue de Norvège, 4960, Malmedy, Belgium",
+    "lng": 6.00241,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:21:34+0000",
+    "thirdPartyId": "Q-ADJ-475",
+    "sigfoxDeviceId": "E20502",
+    "serial": "MMHGC3",
+    "name": 471,
+    "state": "STOP",
+    "id": 421948263,
+    "time": "2021-06-25T11:11:00+0000",
+    "lat": 50.41464,
+    "seqNbr": 14
+  },
+  "dataType": "activity"
+}

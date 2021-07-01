@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Steenkensstraat, 2235, Hulshout, Belgium",
+    "lng": 4.81438,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:19:08+0000",
+    "thirdPartyId": "Q-AJD-265",
+    "sigfoxDeviceId": "E1AF92",
+    "serial": "GVTPYR",
+    "name": 426,
+    "state": "STOP",
+    "id": 421839618,
+    "time": "2021-06-25T08:08:00+0000",
+    "lat": 51.05689,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

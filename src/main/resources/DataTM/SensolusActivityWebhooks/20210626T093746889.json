@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Blaasveldstraat, 2830, Willebroek, Belgium",
+    "lng": 4.37118,
+    "accuracy": 15,
+    "fixTime": 15,
+    "source": "gps",
+    "insertTime": "2021-06-26T09:37:46+0000",
+    "thirdPartyId": "Q-ABZ-187",
+    "sigfoxDeviceId": "3D21DA",
+    "serial": "F7DQ4F",
+    "name": 173,
+    "state": "STOP",
+    "id": 422439467,
+    "time": "2021-06-26T09:26:00+0000",
+    "lat": 51.0379,
+    "seqNbr": 17
+  },
+  "dataType": "activity"
+}

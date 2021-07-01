@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Nieuwstraat, 2840, Rumst, Belgium",
+    "lng": 4.41335,
+    "accuracy": 10,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T11:17:20+0000",
+    "thirdPartyId": "Q-AJD-265",
+    "sigfoxDeviceId": "E1AF92",
+    "serial": "GVTPYR",
+    "name": 426,
+    "state": "START",
+    "id": 421945865,
+    "time": "2021-06-25T11:15:00+0000",
+    "lat": 51.08148,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

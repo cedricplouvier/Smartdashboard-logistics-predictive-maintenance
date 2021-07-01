@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Botermarkt, 2, 9000, Ghent, Belgium",
+    "lng": 3.72562,
+    "accuracy": 15,
+    "fixTime": 49,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:41:43+0000",
+    "thirdPartyId": "QDF-767",
+    "sigfoxDeviceId": "21AE16",
+    "serial": "QD1ZJW",
+    "name": 1159,
+    "state": "START",
+    "id": 421926130,
+    "time": "2021-06-25T10:39:00+0000",
+    "lat": 51.05436,
+    "seqNbr": 47
+  },
+  "dataType": "activity"
+}

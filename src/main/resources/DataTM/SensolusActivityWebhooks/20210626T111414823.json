@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Sleutelbaan, 3130, Begijnendijk, Belgium",
+    "lng": 4.80063,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-26T11:14:14+0000",
+    "thirdPartyId": "Q-AYB-373",
+    "sigfoxDeviceId": "E1FF7F",
+    "serial": "CKAL3Q",
+    "name": 518,
+    "state": "STOP",
+    "id": 422477016,
+    "time": "2021-06-26T11:03:00+0000",
+    "lat": 51.0247,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

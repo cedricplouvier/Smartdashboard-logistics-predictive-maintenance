@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Boomsesteenweg, 2830, Willebroek, Belgium",
+    "lng": 4.36065,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:01:16+0000",
+    "thirdPartyId": "Q-ACE-973",
+    "sigfoxDeviceId": "E20BFC",
+    "serial": "LHYUWT",
+    "name": 856,
+    "state": "STOP",
+    "id": 422043223,
+    "time": "2021-06-25T13:50:00+0000",
+    "lat": 51.07508,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

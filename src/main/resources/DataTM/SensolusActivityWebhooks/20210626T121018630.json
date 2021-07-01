@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "32, Meers, Steenfabriek, Thorn, Maasgouw, Limburg, Netherlands, 6017BD, The Netherlands",
+    "lng": 5.86127,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-26T12:10:17+0000",
+    "thirdPartyId": "Q-AFL-035",
+    "sigfoxDeviceId": "E1FF81",
+    "serial": "UE7WVR",
+    "name": 436,
+    "state": "STOP",
+    "id": 422497484,
+    "time": "2021-06-25T12:06:00+0000",
+    "lat": 51.15567,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

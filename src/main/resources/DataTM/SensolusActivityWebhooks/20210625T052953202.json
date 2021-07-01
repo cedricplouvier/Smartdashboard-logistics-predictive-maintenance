@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E411, 5562, Houyet, Belgium",
+    "lng": 5.06583,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:29:52+0000",
+    "thirdPartyId": "1-QCQ-952",
+    "sigfoxDeviceId": "142EC91",
+    "serial": "XK29FN",
+    "name": 411,
+    "state": "ON_THE_MOVE",
+    "id": 421745364,
+    "time": "2021-06-25T04:52:00+0000",
+    "lat": 50.19744,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

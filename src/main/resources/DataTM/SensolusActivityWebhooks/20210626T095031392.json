@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Zuidgoordijkstraat, 5, 2235, Hulshout, Belgium",
+    "lng": 4.81129,
+    "accuracy": 15,
+    "fixTime": 59,
+    "source": "gps",
+    "insertTime": "2021-06-26T09:50:30+0000",
+    "thirdPartyId": "Q-AFF-686",
+    "sigfoxDeviceId": "21A591",
+    "serial": "DFKZ7H",
+    "name": 145,
+    "state": "STOP",
+    "id": 422444840,
+    "time": "2021-06-26T09:39:00+0000",
+    "lat": 51.079,
+    "seqNbr": 46
+  },
+  "dataType": "activity"
+}

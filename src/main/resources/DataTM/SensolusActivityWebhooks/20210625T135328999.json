@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Herkenrodesingel, 3500, Hasselt, Belgium",
+    "lng": 5.33399,
+    "accuracy": 10,
+    "fixTime": 39,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:53:28+0000",
+    "thirdPartyId": "Q-AFJ-297",
+    "sigfoxDeviceId": "21A594",
+    "serial": "ZYV13Y",
+    "name": 1172,
+    "state": "STOP",
+    "id": 422038578,
+    "time": "2021-06-25T13:42:00+0000",
+    "lat": 50.94181,
+    "seqNbr": 28
+  },
+  "dataType": "activity"
+}

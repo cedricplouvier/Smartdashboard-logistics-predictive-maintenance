@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E411, 1300, Wavre, Belgium",
+    "lng": 4.60248,
+    "accuracy": 20,
+    "fixTime": 45,
+    "source": "gps",
+    "insertTime": "2021-06-26T05:07:42+0000",
+    "thirdPartyId": "Q-AFB-994",
+    "sigfoxDeviceId": "21A561",
+    "serial": "PJG449",
+    "name": "006",
+    "state": "STOP",
+    "id": 422341662,
+    "time": "2021-06-26T04:56:00+0000",
+    "lat": 50.71264,
+    "seqNbr": 54
+  },
+  "dataType": "activity"
+}

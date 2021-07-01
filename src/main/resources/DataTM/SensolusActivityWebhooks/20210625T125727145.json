@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Jan de Lichte, 9090, Melle, Belgium",
+    "lng": 3.78086,
+    "accuracy": 20,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T12:57:25+0000",
+    "thirdPartyId": "Q-AJD-266",
+    "sigfoxDeviceId": "E181DE",
+    "serial": "KAZG1P",
+    "name": 105,
+    "state": "ON_THE_MOVE",
+    "id": 422005249,
+    "time": "2021-06-25T12:26:00+0000",
+    "lat": 50.99618,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Adolf Greinerstraat, 2660, Antwerp, Belgium",
+    "lng": 4.33733,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-26T05:13:52+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "STOP",
+    "id": 422343263,
+    "time": "2021-06-26T05:08:00+0000",
+    "lat": 51.16126,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

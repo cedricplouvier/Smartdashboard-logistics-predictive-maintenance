@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "E313, 2430, Ham, Belgium",
+    "lng": 5.10923,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:13:34+0000",
+    "thirdPartyId": "1-QDS-151",
+    "sigfoxDeviceId": 1.42E+650,
+    "serial": "9X3N2L",
+    "name": 906,
+    "state": "ON_THE_MOVE",
+    "id": 421714209,
+    "time": "2021-06-25T03:46:00+0000",
+    "lat": 51.09185,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

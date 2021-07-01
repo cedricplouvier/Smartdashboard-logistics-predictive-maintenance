@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hauwstraat, 9070, Destelbergen, Belgium",
+    "lng": 3.81733,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:28:06+0000",
+    "thirdPartyId": "Q-AKF-441",
+    "sigfoxDeviceId": "E208F6",
+    "serial": "3HN7DW",
+    "name": 516,
+    "state": "START",
+    "id": 421918505,
+    "time": "2021-06-25T10:15:00+0000",
+    "lat": 51.04853,
+    "seqNbr": 7
+  },
+  "dataType": "activity"
+}

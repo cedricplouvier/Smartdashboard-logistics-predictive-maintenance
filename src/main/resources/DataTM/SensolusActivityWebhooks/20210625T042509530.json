@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Klokkestraat, 2570, Duffel, Belgium",
+    "lng": 4.4881,
+    "accuracy": 10,
+    "fixTime": 29,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:25:09+0000",
+    "thirdPartyId": "1-QAQ-387",
+    "sigfoxDeviceId": "3D2362",
+    "serial": "ZJJJMX",
+    "name": 316,
+    "state": "ON_THE_MOVE",
+    "id": 421718148,
+    "time": "2021-06-25T04:23:00+0000",
+    "lat": 51.11393,
+    "seqNbr": 59
+  },
+  "dataType": "activity"
+}

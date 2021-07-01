@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hulststraat, 60, 3630, Maasmechelen, Belgium",
+    "lng": 5.67628,
+    "accuracy": 10,
+    "fixTime": 35,
+    "source": "gps",
+    "insertTime": "2021-06-25T20:58:11+0000",
+    "thirdPartyId": "Q-AGW-052",
+    "sigfoxDeviceId": "21A6CD",
+    "serial": "G12KZP",
+    "name": 418,
+    "state": "STOP",
+    "id": 422217605,
+    "time": "2021-06-25T08:19:00+0000",
+    "lat": 50.95953,
+    "seqNbr": 48
+  },
+  "dataType": "activity"
+}

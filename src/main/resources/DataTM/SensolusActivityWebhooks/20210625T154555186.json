@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Dellingstraat, 31, 2800, Mechelen, Belgium",
+    "lng": 4.49832,
+    "accuracy": 10,
+    "fixTime": 30,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:45:54+0000",
+    "thirdPartyId": "Q-AHB-394",
+    "sigfoxDeviceId": "21A5D1",
+    "serial": "V9ARH6",
+    "name": 441,
+    "state": "STOP",
+    "id": 422100162,
+    "time": "2021-06-25T15:34:00+0000",
+    "lat": 51.01407,
+    "seqNbr": 25
+  },
+  "dataType": "activity"
+}

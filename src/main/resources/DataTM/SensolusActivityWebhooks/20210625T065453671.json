@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Meloenstraat, 6-16, 2060, Antwerp, Belgium",
+    "lng": 4.43346,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:54:52+0000",
+    "thirdPartyId": "Q-AGR-941",
+    "sigfoxDeviceId": "E204A6",
+    "serial": "W69GXM",
+    "name": 914,
+    "state": "START",
+    "id": 421790870,
+    "time": "2021-06-25T06:53:00+0000",
+    "lat": 51.22759,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

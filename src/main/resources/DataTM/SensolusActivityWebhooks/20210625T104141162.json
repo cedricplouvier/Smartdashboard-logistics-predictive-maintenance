@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vorselaarsebaan, 13, 2200, Herentals, Belgium",
+    "lng": 4.83036,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-25T10:41:40+0000",
+    "thirdPartyId": "Q-AJV-185",
+    "sigfoxDeviceId": "E208B6",
+    "serial": "U7XPQ1",
+    "name": 1193,
+    "state": "START",
+    "id": 421926091,
+    "time": "2021-06-25T10:29:00+0000",
+    "lat": 51.18914,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

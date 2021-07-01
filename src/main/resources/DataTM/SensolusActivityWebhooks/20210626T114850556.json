@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Reyenstraat, 5, 3900, Pelt, Belgium",
+    "lng": 5.40169,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-26T11:48:50+0000",
+    "thirdPartyId": "Q-ADN-819",
+    "sigfoxDeviceId": "E1A42B",
+    "serial": "W6Y3JD",
+    "name": 458,
+    "state": "STOP",
+    "id": 422489567,
+    "time": "2021-06-25T11:18:00+0000",
+    "lat": 51.19424,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

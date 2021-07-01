@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Molenstraat, 47, 1880, Kapelle-op-den-Bos, Belgium",
+    "lng": 4.35345,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:10:38+0000",
+    "thirdPartyId": "Q-ALF-997",
+    "sigfoxDeviceId": 1.42E45,
+    "serial": "GHLPH7",
+    "name": 1197,
+    "state": "START",
+    "id": 421713163,
+    "time": "2021-06-25T04:09:00+0000",
+    "lat": 50.98504,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

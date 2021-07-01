@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Nobelstraat, 3128, Tremelo, Belgium",
+    "lng": 4.74534,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:51:19+0000",
+    "thirdPartyId": "Q-ALY-434",
+    "sigfoxDeviceId": 1.42E+406,
+    "serial": "U9V3CM",
+    "name": 1200,
+    "state": "START",
+    "id": 421707360,
+    "time": "2021-06-25T03:06:00+0000",
+    "lat": 51.01326,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

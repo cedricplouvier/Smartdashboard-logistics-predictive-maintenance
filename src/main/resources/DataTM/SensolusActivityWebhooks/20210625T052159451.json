@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Fabrieksstraat, 4A, 3980, Tessenderlo, Belgium",
+    "lng": 5.10566,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:21:58+0000",
+    "thirdPartyId": "Q-AGC-888",
+    "sigfoxDeviceId": "E204F7",
+    "serial": "XHGWP3",
+    "name": 752,
+    "state": "START",
+    "id": 421741614,
+    "time": "2021-06-24T05:30:00+0000",
+    "lat": 51.06523,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

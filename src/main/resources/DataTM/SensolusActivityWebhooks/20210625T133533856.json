@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Impulsstraat, 17, 2220, Heist-op-den-Berg, Belgium",
+    "lng": 4.70047,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T13:35:32+0000",
+    "thirdPartyId": "Q-ALF-997",
+    "sigfoxDeviceId": 1.42E45,
+    "serial": "GHLPH7",
+    "name": 1197,
+    "state": "STOP",
+    "id": 422027751,
+    "time": "2021-06-25T13:29:00+0000",
+    "lat": 51.06206,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

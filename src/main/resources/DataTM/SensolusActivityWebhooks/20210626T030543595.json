@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Avenue du Port - Havenlaan, 25, 1000, City of Brussels, Belgium",
+    "lng": 4.34779,
+    "accuracy": 15,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-26T03:05:42+0000",
+    "thirdPartyId": "Q-ABA-124",
+    "sigfoxDeviceId": "3D2283",
+    "serial": "LPXP99",
+    "name": 176,
+    "state": "STOP",
+    "id": 422313267,
+    "time": "2021-06-26T02:54:00+0000",
+    "lat": 50.86166,
+    "seqNbr": 21
+  },
+  "dataType": "activity"
+}

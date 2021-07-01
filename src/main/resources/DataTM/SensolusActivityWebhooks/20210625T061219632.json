@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Antwerpseweg, 106, 2440, Geel, Belgium",
+    "lng": 4.95234,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:12:18+0000",
+    "thirdPartyId": "1-QDS-151",
+    "sigfoxDeviceId": 1.42E+650,
+    "serial": "9X3N2L",
+    "name": 906,
+    "state": "ON_THE_MOVE",
+    "id": 421766896,
+    "time": "2021-06-25T06:08:00+0000",
+    "lat": 51.14409,
+    "seqNbr": 11
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue de Hogne, 6900, Marche-en-Famenne, Belgium",
+    "lng": 5.28267,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:37:51+0000",
+    "thirdPartyId": "1-QAQ-390",
+    "sigfoxDeviceId": 1.42E99,
+    "serial": "UFRFZC",
+    "name": 315,
+    "state": "START",
+    "id": 421851161,
+    "time": "2021-06-24T08:58:00+0000",
+    "lat": 50.23938,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

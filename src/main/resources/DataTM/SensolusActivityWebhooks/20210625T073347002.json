@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kempenarestraat, 51A, 2860, Sint-Katelijne-Waver, Belgium",
+    "lng": 4.52218,
+    "accuracy": 40,
+    "fixTime": 68,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:33:46+0000",
+    "thirdPartyId": "1-QAQ-388",
+    "sigfoxDeviceId": "E20401",
+    "serial": "YKWWT9",
+    "name": 317,
+    "state": "STOP",
+    "id": 421813541,
+    "time": "2021-06-25T07:22:00+0000",
+    "lat": 51.0646,
+    "seqNbr": 14
+  },
+  "dataType": "activity"
+}

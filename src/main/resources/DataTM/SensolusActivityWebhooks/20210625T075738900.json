@@ -1,0 +1,15 @@
+{
+  "data": {
+    "insertTime": "2021-06-25T07:57:38+0000",
+    "thirdPartyId": "QKU-618",
+    "sigfoxDeviceId": "2FC5CD",
+    "serial": "P1AMLW",
+    "name": 181,
+    "state": "START",
+    "source": "gps",
+    "id": 421826891,
+    "time": "2021-06-25T07:57:00+0000",
+    "seqNbr": 0
+  },
+  "dataType": "activity"
+}

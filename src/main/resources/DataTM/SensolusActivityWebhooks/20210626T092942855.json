@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Ambachtenlaan, 16, 3294, Diest, Belgium",
+    "lng": 5.01273,
+    "accuracy": 10,
+    "fixTime": 35,
+    "source": "gps",
+    "insertTime": "2021-06-26T09:25:54+0000",
+    "thirdPartyId": "1-QDM-200",
+    "sigfoxDeviceId": "21A95F",
+    "serial": "EXGQFM",
+    "name": 403,
+    "state": "STOP",
+    "id": 422434337,
+    "time": "2021-06-26T09:14:00+0000",
+    "lat": 51.01144,
+    "seqNbr": 62
+  },
+  "dataType": "activity"
+}

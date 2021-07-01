@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "4300, Waremme, Belgium",
+    "lng": 5.2511,
+    "accuracy": 15,
+    "fixTime": 22,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:45:36+0000",
+    "thirdPartyId": "1-QFF-727",
+    "sigfoxDeviceId": "3D2356",
+    "serial": "71P9CH",
+    "name": 433,
+    "state": "START",
+    "id": 421725514,
+    "time": "2021-06-25T04:00:00+0000",
+    "lat": 50.70575,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

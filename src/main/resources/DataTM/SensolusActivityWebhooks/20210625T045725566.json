@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Vaartkant-Oost, 1601, Drogenbos, Belgium",
+    "lng": 4.29667,
+    "accuracy": 15,
+    "fixTime": 47,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:57:24+0000",
+    "thirdPartyId": "Q-ADJ-723",
+    "sigfoxDeviceId": "21AE2E",
+    "serial": "JHMQFZ",
+    "name": 1146,
+    "state": "START",
+    "id": 421730347,
+    "time": "2021-06-25T04:56:00+0000",
+    "lat": 50.80876,
+    "seqNbr": 31
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kammestraat, 3071, Kortenberg, Belgium",
+    "lng": 4.55793,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:06:20+0000",
+    "thirdPartyId": "1-QDD-790",
+    "sigfoxDeviceId": 1.42E+439,
+    "serial": "9ZADUY",
+    "name": 139,
+    "state": "START",
+    "id": 421763492,
+    "time": "2021-06-25T05:55:00+0000",
+    "lat": 50.9025,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

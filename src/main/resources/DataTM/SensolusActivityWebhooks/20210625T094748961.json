@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Rue du Moulin d'Hargnies, 17, 5575, Gedinne, Belgium",
+    "lng": 4.85622,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:47:48+0000",
+    "thirdPartyId": "1-QCQ-952",
+    "sigfoxDeviceId": "142EC91",
+    "serial": "XK29FN",
+    "name": 411,
+    "state": "START",
+    "id": 421894886,
+    "time": "2021-06-25T09:46:00+0000",
+    "lat": 50.02047,
+    "seqNbr": 5
+  },
+  "dataType": "activity"
+}

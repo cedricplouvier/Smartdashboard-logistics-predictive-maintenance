@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Kallebeekstraat, 58, 3190, Boortmeerbeek, Belgium",
+    "lng": 4.5586,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:05:43+0000",
+    "thirdPartyId": "Q-ALY-444",
+    "sigfoxDeviceId": 1.42E+440,
+    "serial": "Y7Z1RW",
+    "name": 1204,
+    "state": "START",
+    "id": 421711706,
+    "time": "2021-06-25T04:04:00+0000",
+    "lat": 50.97671,
+    "seqNbr": 6
+  },
+  "dataType": "activity"
+}

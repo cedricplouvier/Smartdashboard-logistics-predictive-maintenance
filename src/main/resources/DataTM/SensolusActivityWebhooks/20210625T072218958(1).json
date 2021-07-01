@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Nieuwescheldestraat, 9052, Ghent, Belgium",
+    "lng": 3.73418,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:12:56+0000",
+    "thirdPartyId": "Q-AJD-266",
+    "sigfoxDeviceId": "E181DE",
+    "serial": "KAZG1P",
+    "name": 105,
+    "state": "ON_THE_MOVE",
+    "id": 421802262,
+    "time": "2021-06-25T07:03:00+0000",
+    "lat": 51.01107,
+    "seqNbr": 15
+  },
+  "dataType": "activity"
+}

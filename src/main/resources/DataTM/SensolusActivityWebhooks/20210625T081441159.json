@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Allée des Hortensias - Hortensiaslaan, 1070, Anderlecht, Belgium",
+    "lng": 4.26464,
+    "accuracy": 10,
+    "fixTime": 29,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:14:40+0000",
+    "thirdPartyId": "Q-ACB-525",
+    "sigfoxDeviceId": "3D2D8E",
+    "serial": "E3F6AP",
+    "name": 1132,
+    "state": "START",
+    "id": 421837004,
+    "time": "2021-06-25T08:13:00+0000",
+    "lat": 50.81906,
+    "seqNbr": 33
+  },
+  "dataType": "activity"
+}

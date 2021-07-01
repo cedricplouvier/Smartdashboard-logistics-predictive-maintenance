@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Zagerijstraat, 1, 3700, Tongeren, Belgium",
+    "lng": 5.47292,
+    "accuracy": 10,
+    "fixTime": 37,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:52:36+0000",
+    "thirdPartyId": "Q-AED-532",
+    "sigfoxDeviceId": "2258B1",
+    "serial": "JD9QQZ",
+    "name": 4408,
+    "state": "START",
+    "id": 421755987,
+    "time": "2021-06-25T05:03:00+0000",
+    "lat": 50.78564,
+    "seqNbr": 22
+  },
+  "dataType": "activity"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Driepaal, 3650, Dilsen-Stokkem, Belgium",
+    "lng": 5.67193,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T07:21:58+0000",
+    "thirdPartyId": "Q-AJV-194",
+    "sigfoxDeviceId": "E210FD",
+    "serial": "AUCVFW",
+    "name": 1189,
+    "state": "START",
+    "id": 421807057,
+    "time": "2021-06-25T06:53:00+0000",
+    "lat": 51.03346,
+    "seqNbr": 1
+  },
+  "dataType": "activity"
+}

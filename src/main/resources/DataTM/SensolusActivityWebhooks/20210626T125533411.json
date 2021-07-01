@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "N19, 3012, Leuven, Belgium",
+    "lng": 4.70916,
+    "accuracy": 40,
+    "fixTime": 20,
+    "source": "gps",
+    "insertTime": "2021-06-26T12:54:44+0000",
+    "thirdPartyId": "1-QFB-450",
+    "sigfoxDeviceId": "142E9E9",
+    "serial": "RQ9AL2",
+    "name": 511,
+    "state": "START",
+    "id": 422513162,
+    "time": "2021-06-26T12:35:00+0000",
+    "lat": 50.9041,
+    "seqNbr": 10
+  },
+  "dataType": "activity"
+}

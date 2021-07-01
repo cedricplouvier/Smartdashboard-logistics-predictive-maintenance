@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Ambachtsstraat, 33, 2390, Malle, Belgium",
+    "lng": 4.71198,
+    "accuracy": 15,
+    "fixTime": 31,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:32:10+0000",
+    "thirdPartyId": "Q-AAY-353",
+    "sigfoxDeviceId": "2FC165",
+    "serial": "CUQE39",
+    "name": 117,
+    "state": "START",
+    "id": 422092953,
+    "time": "2021-06-25T15:29:00+0000",
+    "lat": 51.28807,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}

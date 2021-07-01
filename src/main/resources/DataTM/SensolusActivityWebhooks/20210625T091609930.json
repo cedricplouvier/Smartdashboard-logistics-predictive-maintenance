@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Gansdijk, 6, 2830, Willebroek, Belgium",
+    "lng": 4.35922,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:16:08+0000",
+    "thirdPartyId": "Q-AKE-455",
+    "sigfoxDeviceId": "E1860F",
+    "serial": "GN9NWE",
+    "name": 860,
+    "state": "ON_THE_MOVE",
+    "id": 421875185,
+    "time": "2021-06-25T08:35:00+0000",
+    "lat": 51.07575,
+    "seqNbr": 9
+  },
+  "dataType": "activity"
+}

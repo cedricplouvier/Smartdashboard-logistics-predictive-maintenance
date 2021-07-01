@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Zonnebloemstraat, 7, 2440, Geel, Belgium",
+    "lng": 4.97913,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T05:42:34+0000",
+    "thirdPartyId": "Q-AFF-909",
+    "sigfoxDeviceId": "21AF03",
+    "serial": "G6Q4EL",
+    "name": 1165,
+    "state": "STOP",
+    "id": 421751224,
+    "time": "2021-06-25T05:31:00+0000",
+    "lat": 51.16207,
+    "seqNbr": 18
+  },
+  "dataType": "activity"
+}

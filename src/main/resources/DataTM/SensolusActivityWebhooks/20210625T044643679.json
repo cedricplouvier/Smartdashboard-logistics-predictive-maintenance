@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Oostvaartdijk, 1980, Zemst, Belgium",
+    "lng": 4.38512,
+    "accuracy": 15,
+    "fixTime": 26,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:46:42+0000",
+    "thirdPartyId": "QKU-618",
+    "sigfoxDeviceId": "2FC5CD",
+    "serial": "P1AMLW",
+    "name": 181,
+    "state": "START",
+    "id": 421725943,
+    "time": "2021-06-25T04:45:00+0000",
+    "lat": 50.98671,
+    "seqNbr": 46
+  },
+  "dataType": "activity"
+}

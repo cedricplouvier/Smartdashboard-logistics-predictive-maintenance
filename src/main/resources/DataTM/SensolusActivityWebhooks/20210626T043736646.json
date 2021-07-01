@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Ten Hoge, 22, 2180, Antwerp, Belgium",
+    "lng": 4.45805,
+    "accuracy": 40,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-26T04:37:35+0000",
+    "thirdPartyId": "1-QYB-572",
+    "sigfoxDeviceId": "E20C0B",
+    "serial": "44TM2Z",
+    "name": 515,
+    "state": "ON_THE_MOVE",
+    "id": 422333937,
+    "time": "2021-06-26T04:28:00+0000",
+    "lat": 51.26901,
+    "seqNbr": 4
+  },
+  "dataType": "activity"
+}

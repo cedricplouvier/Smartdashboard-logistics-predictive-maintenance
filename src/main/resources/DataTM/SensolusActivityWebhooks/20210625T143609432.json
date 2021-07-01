@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Hoge Meentochtstraat, 2840, Rumst, Belgium",
+    "lng": 4.42856,
+    "accuracy": 20,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:36:08+0000",
+    "thirdPartyId": "Q-ALG-007",
+    "sigfoxDeviceId": "142C3C8",
+    "serial": "EVVZ2C",
+    "name": 1177,
+    "state": "STOP",
+    "id": 422063558,
+    "time": "2021-06-25T14:24:00+0000",
+    "lat": 51.08593,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

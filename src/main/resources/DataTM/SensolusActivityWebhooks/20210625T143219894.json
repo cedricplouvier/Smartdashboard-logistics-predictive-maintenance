@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "August Hermansplein, 2560, Nijlen, Belgium",
+    "lng": 4.67193,
+    "accuracy": 10,
+    "fixTime": 36,
+    "source": "gps",
+    "insertTime": "2021-06-25T14:32:18+0000",
+    "thirdPartyId": "Q-ABL-161",
+    "sigfoxDeviceId": "E20D93",
+    "serial": "PLXKH9",
+    "name": 609,
+    "state": "STOP",
+    "id": 422061418,
+    "time": "2021-06-25T14:21:00+0000",
+    "lat": 51.16024,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

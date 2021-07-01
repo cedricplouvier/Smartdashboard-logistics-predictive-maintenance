@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "2350, Vosselaar, Belgium",
+    "lng": 4.87394,
+    "accuracy": 15,
+    "fixTime": 33,
+    "source": "gps",
+    "insertTime": "2021-06-25T22:45:42+0000",
+    "thirdPartyId": "1-QAX-451",
+    "sigfoxDeviceId": "3D2135",
+    "serial": "9P14JD",
+    "name": 952,
+    "state": "START",
+    "id": 422244217,
+    "time": "2021-06-25T10:34:00+0000",
+    "lat": 51.29181,
+    "seqNbr": 36
+  },
+  "dataType": "activity"
+}

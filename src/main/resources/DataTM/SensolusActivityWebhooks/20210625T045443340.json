@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Onderwijsstraat, 15, 3581, Beringen, Belgium",
+    "lng": 5.21752,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T04:54:42+0000",
+    "thirdPartyId": "Q-AJV-194",
+    "sigfoxDeviceId": "E210FD",
+    "serial": "AUCVFW",
+    "name": 1189,
+    "state": "START",
+    "id": 421729199,
+    "time": "2021-06-25T03:59:00+0000",
+    "lat": 51.08683,
+    "seqNbr": 13
+  },
+  "dataType": "activity"
+}

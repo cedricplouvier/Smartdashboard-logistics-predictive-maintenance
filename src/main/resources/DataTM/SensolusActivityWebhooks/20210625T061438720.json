@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Chaussée d'Arlon, 6840, Neufchâteau, Belgium",
+    "lng": 5.44809,
+    "accuracy": 10,
+    "fixTime": 127,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:14:38+0000",
+    "thirdPartyId": "Q-AHB-390",
+    "sigfoxDeviceId": "21A97B",
+    "serial": "GTQPJP",
+    "name": 467,
+    "state": "ON_THE_MOVE",
+    "id": 421768135,
+    "time": "2021-06-25T06:10:00+0000",
+    "lat": 49.8388,
+    "seqNbr": 29
+  },
+  "dataType": "activity"
+}

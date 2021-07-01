@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "De Manstraat, 91, 2100, Antwerp, Belgium",
+    "lng": 4.45621,
+    "accuracy": 20,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T06:05:27+0000",
+    "thirdPartyId": "Q-ALY-447",
+    "sigfoxDeviceId": 1.42E+405,
+    "serial": "4W1NMW",
+    "name": 1205,
+    "state": "STOP",
+    "id": 421763153,
+    "time": "2021-06-25T05:59:00+0000",
+    "lat": 51.22683,
+    "seqNbr": 2
+  },
+  "dataType": "activity"
+}

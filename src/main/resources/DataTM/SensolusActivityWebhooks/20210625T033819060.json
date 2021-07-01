@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Samenwerkingsstraat, 2845, Niel, Belgium",
+    "lng": 4.33557,
+    "accuracy": 20,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T03:38:18+0000",
+    "thirdPartyId": "Q-ALF-997",
+    "sigfoxDeviceId": 1.42E45,
+    "serial": "GHLPH7",
+    "name": 1197,
+    "state": "START",
+    "id": 421703706,
+    "time": "2021-06-25T03:29:00+0000",
+    "lat": 51.10602,
+    "seqNbr": 8
+  },
+  "dataType": "activity"
+}

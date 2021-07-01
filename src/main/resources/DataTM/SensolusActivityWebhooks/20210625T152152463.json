@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Liersesteenweg, 3130, Begijnendijk, Belgium",
+    "lng": 4.81372,
+    "accuracy": 15,
+    "fixTime": 29,
+    "source": "gps",
+    "insertTime": "2021-06-25T15:21:49+0000",
+    "thirdPartyId": "Q-AGW-052",
+    "sigfoxDeviceId": "21A6CD",
+    "serial": "G12KZP",
+    "name": 418,
+    "state": "ON_THE_MOVE",
+    "id": 422087825,
+    "time": "2021-06-25T15:04:00+0000",
+    "lat": 51.00822,
+    "seqNbr": 51
+  },
+  "dataType": "activity"
+}

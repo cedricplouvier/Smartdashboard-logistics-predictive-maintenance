@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "A10, 8490, Jabbeke, Belgium",
+    "lng": 3.0577,
+    "accuracy": 40,
+    "fixTime": 12,
+    "source": "gps",
+    "insertTime": "2021-06-25T08:56:06+0000",
+    "thirdPartyId": "Q-AAU-075",
+    "sigfoxDeviceId": "142EA5C",
+    "serial": "2UTW99",
+    "name": 853,
+    "state": "ON_THE_MOVE",
+    "id": 421862536,
+    "time": "2021-06-24T10:26:00+0000",
+    "lat": 51.197,
+    "seqNbr": 12
+  },
+  "dataType": "activity"
+}

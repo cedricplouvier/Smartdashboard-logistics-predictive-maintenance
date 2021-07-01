@@ -1,0 +1,20 @@
+{
+  "data": {
+    "address": "Place Saint-Ghislain, 14, 5640, Mettet, Belgium",
+    "lng": 4.64333,
+    "accuracy": 40,
+    "fixTime": 8,
+    "source": "gps",
+    "insertTime": "2021-06-25T09:45:36+0000",
+    "thirdPartyId": "Q-ADG-344",
+    "sigfoxDeviceId": "E20C22",
+    "serial": "AA2CN9",
+    "name": 252,
+    "state": "START",
+    "id": 421893552,
+    "time": "2021-06-25T09:01:00+0000",
+    "lat": 50.3488,
+    "seqNbr": 3
+  },
+  "dataType": "activity"
+}
