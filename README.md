@@ -35,3 +35,6 @@ To get accurate insights I needed to couple all trucks to their used trailers fo
 
 ### 3. Model training
 An optimal regression pipeline is searched with AutoML tool TPOT
+
+### 4. Results
+See paper
